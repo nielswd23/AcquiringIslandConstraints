@@ -3,5 +3,6 @@ Transferring code to this repo for the Languages write-up. I completed the targe
 All three of the facet plots are generated using R scripts in FG_project/code folder (ps_facet_plots.R, liu_facet_plot.R, dev_facet_plot.R). I want to incorporate the output files that generate these plots in the repo. The LSTM results seem to be generated from FG_project/whDepAcq_FG/lstm/testing_output.py. Although the main lstm results in the ps_facet_plots.R is FG_project/code/LSTM_sprouse_diff.csv which I need to figure out where that was generated (maybe from the code on richard's server, but I think I would've transfered that? -- I checked server code and I don't have anything more recent than my local files, so it must be from testing_output.py. Is the output file lex_models_test_results.csv a colleciton of all the results? Sprouse, liu, and devilliers? Or would I just uncomment each one to create the individual results?).
 TODO:
 1. I will start with regenerating plots to fix the order for the write-up.
-2. Then I will upload the R scripts and output files necessary to generate these files 
-3. Then I will figure out what the code for generating these results were (starting with the LSTM code-- some have already been pushed to the whDepAcq repo which might be a good starting place)
+2. Need to edit appendix plots too
+3. Then I will upload the R scripts and output files necessary to generate these files 
+4. Then I will figure out what the code for generating these results were (starting with the LSTM code-- some have already been pushed to the whDepAcq repo which might be a good starting place)
