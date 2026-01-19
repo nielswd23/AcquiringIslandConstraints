@@ -1,0 +1,16 @@
+IP_past VP_hear NP_statement CP_that IP_past VP_bake
+IP_past VP_deny NP_fact CP_that IP_past VP_catch
+IP_past VP_make NP_argument CP_that IP_should VP_clean
+IP_past VP_announce NP_news CP_that IP_past VP_win
+IP_past VP_make NP_prediction CP_that IP_would VP_refill
+IP_past VP_regret NP_fact CP_that IP_past VP_rent
+IP_past VP_believe NP_claim CP_that IP_past VP_wrap
+IP_past VP_make NP_claim CP_that IP_past VP_steal
+IP_past VP_make NP_suggestion CP_that IP_present VP_play
+IP_past VP_doubt NP_prediction CP_that IP_would VP_finish
+IP_past VP_hear NP_rumor CP_that IP_past VP_receive
+IP_past VP_deny NP_fact CP_that IP_could VP_afford
+IP_past VP_verify NP_statement CP_that IP_past VP_own
+IP_past VP_make NP_claim CP_that IP_past VP_see
+IP_past VP_doubt NP_possibility CP_that IP_could VP_find
+IP_past VP_hear NP_rumor CP_that IP_past VP_sell

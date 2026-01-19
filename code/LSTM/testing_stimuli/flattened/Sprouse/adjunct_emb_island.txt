@@ -1,0 +1,16 @@
+IP_present VP_worry CP_if IP_present VP_forget
+IP_present VP_laugh CP_if IP_present VP_buy
+IP_present VP_worry CP_if IP_present VP_leave
+IP_present VP_blush CP_if IP_present VP_submit
+IP_present VP_sneeze CP_if IP_present VP_leave
+IP_present VP_notice CP_if IP_present VP_turn
+IP_present VP_object CP_if IP_present VP_erase
+IP_present VP_complain CP_if IP_present VP_keep
+IP_present VP_sigh CP_if IP_present VP_neglect
+IP_present VP_snicker CP_if IP_present VP_repair
+IP_present VP_wince CP_if IP_present VP_play
+IP_present VP_protest CP_if IP_present VP_complete
+IP_present VP_smile CP_if IP_present VP_pay
+IP_present VP_cough CP_if IP_present VP_photograph
+IP_present VP_wink CP_if IP_present VP_share
+IP_present VP_faint CP_if IP_present VP_forget

@@ -1,0 +1,16 @@
+IP_present VP_think CP_null IP_null NP_gift PP_from
+IP_present VP_think CP_null IP_null NP_speech PP_by
+IP_present VP_think CP_null IP_null NP_meeting PP_with
+IP_present VP_think CP_null IP_null NP_documentary  PP_by
+IP_present VP_think CP_null IP_null NP_email PP_from
+IP_present VP_think CP_null IP_null NP_picture PP_of
+IP_present VP_think CP_null IP_null NP_flyer PP_from
+IP_present VP_think CP_null IP_null NP_verdict PP_from
+IP_present VP_think CP_null IP_null NP_discovery PP_by
+IP_present VP_think CP_null IP_null NP_translation  PP_by
+IP_present VP_think CP_null IP_null NP_treatment PP_for
+IP_present VP_think CP_null IP_null NP_notes PP_by
+IP_present VP_think CP_null IP_null NP_argument PP_by
+IP_present VP_think CP_null IP_null NP_waste PP_from
+IP_present VP_think CP_null IP_null NP_letter PP_from
+IP_present VP_think CP_null IP_null NP_statement PP_by

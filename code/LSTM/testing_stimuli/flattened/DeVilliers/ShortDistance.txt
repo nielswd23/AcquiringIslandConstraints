@@ -1,0 +1,13 @@
+IP_past VP_say
+IP_past VP_help
+IP_past VP_say
+IP_past VP_ask
+IP_past VP_ask
+IP_past VP_learn
+IP_past VP_ask
+IP_past VP_fix PP_with
+IP_past VP_drink
+IP_past VP_drive
+IP_past VP_pick-up
+IP_past VP_buy
+IP_past VP_get

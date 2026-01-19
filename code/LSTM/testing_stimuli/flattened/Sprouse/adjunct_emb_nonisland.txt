@@ -1,0 +1,16 @@
+IP_present VP_think CP_that IP_past VP_forget
+IP_present VP_wish CP_that IP_past VP_buy
+IP_present VP_suspect CP_that IP_past VP_leave
+IP_present VP_think CP_that IP_will VP_submit
+IP_present VP_hope CP_that IP_will VP_leave
+IP_present VP_complain CP_that IP_present VP_turn
+IP_present VP_claim CP_that IP_past VP_erase
+IP_present VP_propose CP_that IP_present VP_keep
+IP_present VP_expect CP_that IP_will VP_neglect
+IP_present VP_demand CP_that IP_present VP_repair
+IP_present VP_suggest CP_that IP_present VP_play
+IP_present VP_require CP_that IP_present VP_complete
+IP_present VP_doubt CP_that IP_will VP_pay
+IP_present VP_believe CP_that IP_will VP_photograph
+IP_present VP_predict CP_that IP_will VP_share
+IP_present VP_fear CP_that IP_will VP_forget

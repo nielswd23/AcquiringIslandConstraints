@@ -1,0 +1,16 @@
+IP_present VP_wonder CP_whether IP_past VP_take
+IP_present VP_wonder CP_whether IP_past VP_chase
+IP_present VP_wonder CP_whether IP_present VP_love
+IP_present VP_wonder CP_whether IP_past VP_sell
+IP_present VP_wonder CP_whether IP_present VP_drink
+IP_present VP_wonder CP_whether IP_present VP_drive
+IP_present VP_wonder CP_whether IP_present VP_hate
+IP_present VP_wonder CP_whether IP_present VP_study
+IP_present VP_wonder CP_whether IP_present VP_like
+IP_present VP_wonder CP_whether IP_past VP_write
+IP_present VP_wonder CP_whether IP_past VP_buy
+IP_present VP_wonder CP_whether IP_past VP_eat
+IP_present VP_wonder CP_whether IP_past VP_read
+IP_present VP_wonder CP_whether IP_past VP_see
+IP_present VP_wonder CP_whether IP_past VP_start
+IP_present VP_wonder CP_whether IP_past VP_bake

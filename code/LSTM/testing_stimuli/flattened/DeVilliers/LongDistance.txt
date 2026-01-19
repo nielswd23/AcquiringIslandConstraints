@@ -1,0 +1,13 @@
+IP_past VP_say CP_null IP_past VP_buy
+IP_past VP_help IP_non-finite VP_call
+IP_past VP_say CP_null IP_past VP_hurt
+IP_past VP_ask CP_how IP_non-finite VP_see
+IP_past VP_ask CP_what IP_non-finite VP_bring
+IP_past VP_learn CP_what IP_non-finite VP_bake
+IP_past VP_ask CP_where IP_non-finite VP_ride
+IP_past VP_fix NP_cat CP_that IP_past VP_lie PP_with
+IP_past NP_boy CP_who IP_past VP_sneeze
+IP_past VP_drive IP_non-finite VP_hunt
+IP_past VP_pick-up IP_non-finite VP_sign
+IP_past VP_buy IP_non-finite VP_eat
+IP_past VP_get IP_non-finite VP_splash
