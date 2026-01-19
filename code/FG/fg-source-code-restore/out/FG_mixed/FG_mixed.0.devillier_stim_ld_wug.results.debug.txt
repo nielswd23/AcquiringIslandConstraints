@@ -1,0 +1,10 @@
+Input grammar: /Users/niels/Desktop/FG_project/fg-source-code-restore/out/FG_mixed/FG_mixed.0.FG-output.rank-1.txt
+Test Sentence File: /Users/niels/Desktop/FG_project/stimuli/devillier_stim_ld_wug.txt
+Output File Prefix: /Users/niels/Desktop/FG_project/fg-source-code-restore/out/FG_mixed/FG_mixed.0.devillier_stim_ld_wug.results.csv
+Seeded?: true
+Debug file: /Users/niels/Desktop/FG_project/fg-source-code-restore/out/FG_mixed/FG_mixed.0.devillier_stim_ld_wug.results.debug.txt
+Start Symbol: START
+Loading Test Sentences.
+Seeded Test Sentences.
+Loading Grammar: 
+Scoring tests.

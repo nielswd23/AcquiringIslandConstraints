@@ -1,0 +1,10 @@
+Input grammar: /Users/niels/Desktop/FG_project/fg-source-code-restore/out/AG_mixed/AG_mixed.0.FG-output.rank-1.txt
+Test Sentence File: /Users/niels/Desktop/FG_project/stimuli/liu_fg_stim_no_s_end/liu_bridge.txt
+Output File Prefix: /Users/niels/Desktop/FG_project/fg-source-code-restore/out/AG_mixed/AG_mixed.0.liu_bridge.results.csv
+Seeded?: true
+Debug file: /Users/niels/Desktop/FG_project/fg-source-code-restore/out/AG_mixed/AG_mixed.0.liu_bridge.results.debug.txt
+Start Symbol: START
+Loading Test Sentences.
+Seeded Test Sentences.
+Loading Grammar: 
+Scoring tests.

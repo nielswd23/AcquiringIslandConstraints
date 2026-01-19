@@ -1,0 +1,10 @@
+Input grammar: /Users/niels/Desktop/FG_project/fg-source-code-restore//out/PCFG_highses/PCFG_highses.0.FG-output.rank-1.txt
+Test Sentence File: /Users/niels/Desktop/FG_project/stimuli/omaki_stim_sd.txt
+Output File Prefix: /Users/niels/Desktop/FG_project/fg-source-code-restore//out/PCFG_highses/PCFG_highses.0.omaki_stim_sd.results.csv
+Seeded?: true
+Debug file: /Users/niels/Desktop/FG_project/fg-source-code-restore//out/PCFG_highses/PCFG_highses.0.omaki_stim_sd.results.debug.txt
+Start Symbol: START
+Loading Test Sentences.
+Seeded Test Sentences.
+Loading Grammar: 
+Scoring tests.

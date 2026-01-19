@@ -1,0 +1,2058 @@
+# -21162958.1101
+-4.04209387188 CP  _null _present _go
+-4.04209387188 CP  _null _present _stick
+-4.04209387188 CP  _null _would _think
+-4.04209387188 CP  _null _would _bring
+-4.04209387188 CP  _null _present _cry
+-4.04209387188 CP  _like _present _do
+-4.04209387188 CP  _null _present _cook
+-4.04209387188 CP  _null _non-finite _color
+-3.35807917488 CP  _null _present _do
+-4.04209387188 CP  _null _present _work
+-4.04209387188 CP  _null _present _say
+-4.04209387188 CP  _null _present _like _non-finite _eat
+-4.04209387188 CP  _null _present _eat
+-2.9556768563 CP  _null _past _be
+-4.04209387188 CP  _null _past _come _from
+-8.04942705711 CP  LEX
+-4.04209387188 CP  _null _have _non-finite _do
+-4.04209387188 CP  _null _will _make
+-4.04209387188 CP  _null _present _make _of
+-4.04209387188 CP  _null _might _like _non-finite
+-4.04209387188 CP  _null _past _go
+-4.04209387188 CP  _null _should _color
+-4.04209387188 CP  _that _present _live
+-2.66952970357 CP  _null _present _be
+-4.04209387188 CP  _that _present _do
+-4.04209387188 CP  _null _would _like _non-finite _eat
+-4.04209387188 CP  _null _present _allow _non-finite _touch
+-4.04209387188 CP  _null _present
+-4.04209387188 CP  _null _should _use
+-4.04209387188 CP  _null _present _see
+-4.04209387188 CP  _null
+-4.04209387188 CP  _null _must _have
+-4.04209387188 CP  _null _present _sit _on
+-4.04209387188 CP  _null _present _have
+-4.04209387188 CP  _null _past _want _non-finite _make
+-4.04209387188 CP  _null _'ll _need
+-4.04209387188 CP  _null _past _saw
+-4.04209387188 CP  _null _present _put
+-4.04209387188 CP  _null _could _do
+-8.04942705711 CP  LEX IP
+-4.04209387188 CP  _null _might _have
+-4.04209387188 CP  _null _present _use _for
+-4.04209387188 CP  _null _might _need
+-4.04209387188 CP  _null _present _make
+-4.04209387188 CP  _until _present _come
+-4.04209387188 CP  _null _past _say
+-8.04942705711 CP  LEX VP
+-4.04209387188 CP  _null _present _look _like
+-4.04209387188 CP  _null _present _be _for
+-4.04209387188 CP  _that _present _like
+-4.04209387188 CP  _null _present _call
+-4.04209387188 CP  _null _'d _find
+-4.04209387188 CP  _null _present _know
+-4.04209387188 CP  _null _past _eat
+-9.2209972202 IP  _could _see
+-6.58119137894 IP  _non-finite _play _with
+-7.42865589581 IP  _present _look _at
+-9.2209972202 IP  _'ll
+-8.12238714666 IP  _present _understand
+-9.2209972202 IP  _would _like _non-finite _bring
+-8.12238714666 IP  _present _think _null _present _make
+-8.52785170099 IP  _present _go _non-finite _say
+-9.2209972202 IP  _will _put
+-9.2209972202 IP  _present _sleep _with
+-7.8347053511 IP  _non-finite _go _non-finite _do
+-9.2209972202 IP  _shall _use
+-9.2209972202 IP  _present _teach
+-9.2209972202 IP  _past _have _present _make
+-9.2209972202 IP  _present _wave
+-7.8347053511 IP  _present _check
+-9.2209972202 IP  _past _attach
+-9.2209972202 IP  _present _roll
+-9.2209972202 IP  _present _let _present _sit
+-9.2209972202 IP  _past _unwind
+-8.52785170099 IP  _present _like _non-finite _drink
+-9.2209972202 IP  _present _flash
+-9.2209972202 IP  _would _want _non-finite _pull
+-8.52609885507 IP  _non-finite _write _on
+-8.52785170099 IP  _present _hurt
+-5.66525146438 IP  _present _want _non-finite _do
+-8.12238714666 IP  _past _blow
+-9.2209972202 IP  _present _stick _in
+-9.2209972202 IP  _present _ski
+-9.2209972202 IP  _should _cut
+-7.61086045812 IP  _present _write _with
+-14.8725432016 IP  _non-finite _push
+-8.52785170099 IP  _present _dump
+-9.2209972202 IP  _past _dream _about
+-9.2209972202 IP  _present _be _finish
+-9.2209972202 IP  _present _sleep _in
+-6.65470231231 IP  _non-finite _go
+-7.42865589581 IP  _past _hurt
+-9.2209972202 IP  _past _use _non-finite _say
+-9.2209972202 IP  _present _think _null _should _use
+-9.2209972202 IP  _past _magic _to
+-8.12121824075 IP  _present _stick
+-8.52785170099 IP  _could _put
+-9.2209972202 IP  _present _go _non-finite _turn _like
+-9.21749460127 IP  _non-finite _wear
+-7.8347053511 IP  _present _want _non-finite _go
+-8.12238714666 IP  _past _go _to
+-9.2209972202 IP  _'d _give
+-9.2209972202 IP  _present _hide _behind
+-9.2209972202 IP  _present _smoke
+-9.2209972202 IP  _present _go _play _with
+-9.2209972202 IP  _present _have _non-finite _get
+-9.2209972202 IP  _present _think _null _would _like _non-finite _eat
+-8.52785170099 IP  _present _listen _to
+-8.52785170099 IP  _present _bounce
+-6.51248239353 IP  _would _do
+-9.2209972202 IP  _present _let _present _hold
+-9.2209972202 IP  _past _sit _on
+-7.61086045812 IP  _present _hear
+-8.52785170099 IP  _present _bake
+-9.2209972202 IP  _non-finite _wrestle _with
+-9.2209972202 IP  _present _want _non-finite _ride
+-9.2209972202 IP  _present _like _non-finite _sing
+-9.2209972202 IP  _shall _take
+-9.2209972202 IP  _present _offer
+-9.2209972202 IP  _could _kill _with
+-7.8347053511 IP  _present _go _non-finite _chase
+-9.2209972202 IP  _present _be _at _cook
+-9.2209972202 IP  _past _think _null _present _be
+-8.52785170099 IP  _present _ride _on
+-14.8725432016 IP  _'d _find
+-8.52785170099 IP  _non-finite _hang
+-9.2209972202 IP  _will _have _non-finite _do
+-9.2209972202 IP  _present _go _non-finite _sing _to
+-8.52785170099 IP  _will _say
+-6.73550899198 IP  _past _eat
+-9.2209972202 IP  _present _want _non-finite _find
+-9.2209972202 IP  _non-finite _scoop
+-9.2209972202 IP  _would _like _non-finite _play _at
+-9.2209972202 IP  _past _use _non-finite
+-5.66515125897 IP  _present _come
+-9.2209972202 IP  _'ll _cook
+-21.8357331874 IP  LEX
+-8.12238714666 IP  _present _ride
+-6.51248239353 IP  _shall _do
+-9.2209972202 IP  _would _take
+-9.2209972202 IP  _present _come _to
+-9.2209972202 IP  _present _go _have
+-9.2209972202 IP  _would _let _present _have
+-8.52785170099 IP  _'ll _do
+-9.2209972202 IP  _present _go _non-finite _sit
+-8.52785170099 IP  _present _stop
+-9.2209972202 IP  _present _like _non-finite _rock
+-9.2209972202 IP  _present _step _on
+-14.8725432016 IP  _non-finite _keep _for
+-9.2209972202 IP  _present _screw
+-9.2209972202 IP  _present _turn _to
+-8.52785170099 IP  _non-finite _stop
+-8.52609885507 IP  _present _color
+-8.52609885507 IP  _non-finite _fee
+-8.52785170099 IP  _past _think _null _past _say
+-7.8347053511 IP  _present _want _non-finite _put
+-9.2209972202 IP  _can _wear
+-9.2209972202 IP  _present _settle
+-9.2209972202 IP  _might _fall
+-9.2209972202 IP  _present _be _eat
+-9.2209972202 IP  _present _charge
+-9.2209972202 IP  _'ll _put
+-9.2209972202 IP  _would _say
+-9.2209972202 IP  _non-finite _print _on
+-8.52785170099 IP  _past _be _on
+-9.2209972202 IP  _past _go _non-finite _get
+-9.2209972202 IP  _non-finite _go _non-finite _hit
+-5.81945223487 IP  _present _take
+-7.8347053511 IP  _present _watch
+-9.2209972202 IP  _present _be _lie _on
+-9.2209972202 IP  _past _go _non-finite _have
+-9.2209972202 IP  _present _come _present _read
+-9.2209972202 IP  _would _see
+-9.2209972202 IP  _non-finite _stand _on
+-9.2209972202 IP  _past _do _do
+-9.2209972202 IP  _can _talk
+-9.2209972202 IP  _would _cut
+-7.42865589581 IP  _can _play
+-9.2209972202 IP  _past _dream
+-9.2209972202 IP  _past _move _to
+-7.27458879186 IP  _can _have
+-7.42865589581 IP  _present _build
+-8.52785170099 IP  _non-finite _drive
+-8.52785170099 IP  _non-finite _whisper
+-8.12238714666 IP  _present _go _non-finite _write
+-8.12238714666 IP  _past _know
+-9.2209972202 IP  _present _be _go _non-finite _call
+-7.42807161333 IP  _present _sit _on
+-8.12238714666 IP  _present _pour
+-14.8725432016 IP  _non-finite _peel
+-9.2209972202 IP  _past _do _put
+-9.2209972202 IP  _can _imagine
+-4.10260756876 IP  _past _be
+-8.12238714666 IP  _present _name
+-9.2209972202 IP  _present _wanT _non-finite _draw
+-14.8725432016 IP  _non-finite _stand
+-7.02338580894 IP  _present _be _do
+-5.6096084945 IP  _present _eat
+-9.2209972202 IP  _would _think _of
+-9.2209972202 IP  _non-finite _work _on
+-8.52785170099 IP  _should _say
+-8.52785170099 IP  _past _sing
+-4.77793653581 IP  _past _say
+-9.2209972202 IP  _present _be _sit
+-8.52785170099 IP  _present _go _non-finite _fix _with
+-14.1798691698 IP  _non-finite _sing
+-8.52785170099 IP  _present _go _present _get
+-5.92464387089 IP  _present _work
+-9.2209972202 IP  _present _think _null _past _eat
+-9.2209972202 IP  _present _think _null _present _use _for
+-4.20996764488 IP  _present _say
+-9.2209972202 IP  _present _belong _to
+-14.8725432016 IP  _non-finite _cook
+-8.12238714666 IP  _present _want _non-finite _shoot
+-9.2209972202 IP  _present _lay
+-9.2209972202 IP  _present _have _non-finite _attach
+-8.12238714666 IP  _present _tear
+-8.52785170099 IP  _past _dump
+-8.12238714666 IP  _present _catch
+-9.2209972202 IP  _non-finite _hold _on _to
+-9.2209972202 IP  _past _be _of
+-6.27600752574 IP  _past _put
+-9.2209972202 IP  _present _be _null _present _sit _on
+-6.22491728761 IP  _past _give
+-9.2209972202 IP  _present _have _non-finite _pay
+-7.02338580894 IP  _past _want
+-8.52785170099 IP  _non-finite _transcribe
+-8.52785170099 IP  _present _be _at
+-7.14112008572 IP  _present _sound _like
+-8.52785170099 IP  _present _change
+-9.2209972202 IP  _past _meet
+-9.2209972202 IP  _non-finite _go _non-finite _put
+-9.2209972202 IP  _present _pour _into
+-7.27458879186 IP  _will _get
+-9.2209972202 IP  _would _hold
+-9.2209972202 IP  _past _start
+-5.04623542553 IP  _present _mean
+-8.12238714666 IP  _past _be _for
+-9.2209972202 IP  _non-finite _fix
+-9.2209972202 IP  _present _hang
+-9.2209972202 IP  _could _break
+-9.2209972202 IP  _past _fight
+-9.2209972202 IP  _can _finish
+-14.1798691698 IP  _non-finite _take
+-6.73580126138 IP  _present _turn
+-6.17614383407 IP  _present _write
+-9.2209972202 IP  _past _be _at
+-9.2209972202 IP  _present _do _with
+-6.08520111848 IP  _past _find
+-5.85334168783 IP  _past _have
+-9.2209972202 IP  _present _want _non-finite _cut
+-6.73550899198 IP  _present _live
+-9.2209972202 IP  _present _go _play
+-21.8357331874 IP  LEX IP
+-7.8347053511 IP  _present _run
+-14.8725432016 IP  _non-finite _fly
+-9.2209972202 IP  _'d _call
+-14.8725432016 IP  _non-finite _tie
+-7.8347053511 IP  _present _go _non-finite _see
+-9.2209972202 IP  _present _jump _in
+-7.61015944208 IP  _present _use _for
+-14.8725432016 IP  _non-finite _chase
+-8.52785170099 IP  _present _climb
+-9.2209972202 IP  _present _see _with
+-9.2209972202 IP  _past _hang
+-9.2209972202 IP  _present _remove
+-9.2209972202 IP  _non-finite _go _sleep
+-3.81791229322 IP  _present _have
+-8.12238714666 IP  _present _sell
+-8.5208570273 IP  _non-finite _say
+-7.02299617339 IP  _present _like _non-finite _eat
+-7.42865589581 IP  _present _think _null _present _go
+-9.2209972202 IP  _past _tell _null _past _go
+-8.52785170099 IP  _past _tip
+-9.2209972202 IP  _past _talk
+-8.52785170099 IP  _could _wear
+-6.82278603973 IP  _present _think _null _present _do
+-14.8725432016 IP  _non-finite _fix _with
+-14.8725432016 IP  _must _have
+-9.2209972202 IP  _present _want _non-finite _help _with
+-9.2209972202 IP  _non-finite _wait _until _present _come
+-6.82278603973 IP  _present _drink
+-9.2209972202 IP  _will _know
+-9.2209972202 IP  _non-finite _knit _with
+-8.52785170099 IP  _should _make
+-9.2209972202 IP  _past _walk
+-8.52785170099 IP  _present _want _non-finite _touch
+-9.2209972202 IP  _would _break
+-6.82278603973 IP  _present _give
+-9.2209972202 IP  _would _give
+-8.52785170099 IP  _past _go _on
+-9.2209972202 IP  _would _dump
+-5.60885012932 IP  _non-finite _do
+-9.2209972202 IP  _past _speak _of
+-9.2209972202 IP  _'ll _play
+-9.2209972202 IP  _present _go _non-finite _talk _to
+-7.42865589581 IP  _present _pull
+-9.2209972202 IP  _present _knock
+-9.2209972202 IP  _past _say _null _present _do
+-8.52785170099 IP  _present _have _non-finite _cut
+-7.27458879186 IP  _present _draw
+-8.12238714666 IP  _present _love
+-9.2209972202 IP  _past _go _non-finite _do
+-9.2209972202 IP  _present _think _of
+-9.2209972202 IP  _past _visit
+-6.9180643021 IP  _can _do
+-9.2209972202 IP  _present _go _have _non-finite _love
+-9.2209972202 IP  _will _have _non-finite _write _on
+-5.41387025247 IP  _present _look _like
+-14.1798691698 IP  _non-finite _stay
+-9.2209972202 IP  _present _tear _for
+-9.2209972202 IP  _present _go _non-finite _carry _to
+-9.2209972202 IP  _past _think _null _present _do
+-9.2209972202 IP  _would _like _null _non-finite _color
+-9.2209972202 IP  _present _think _null _present _make _of
+-9.2209972202 IP  _past _burn
+-8.12238714666 IP  _present _be _go _non-finite _do
+-9.21749460127 IP  _non-finite _hook
+-9.2209972202 IP  _past _open
+-7.14112008572 IP  _present _let
+-9.2209972202 IP  _past _have _for
+-8.52785170099 IP  _present _fold
+-9.2209972202 IP  _present _look _like _present _do
+-9.2209972202 IP  _present _fight _about
+-9.2209972202 IP  _present _do _need
+-8.52785170099 IP  _present _be _they
+-7.02338580894 IP  _present _go _non-finite _have
+-8.52785170099 IP  _past _look
+-9.2209972202 IP  _present _think _null _past _come _from
+-9.2209972202 IP  _present _get _on
+-8.12238714666 IP  _'d _go
+-9.2209972202 IP  _present _think _null _would _think
+-9.2209972202 IP  _non-finite _bang _on
+-8.52785170099 IP  _past _hit
+-9.2209972202 IP  _could _write
+-9.2209972202 IP  _present _wunning _to
+-14.8725432016 IP  _non-finite _park
+-9.2209972202 IP  _present _wake _from
+-9.2209972202 IP  _present _come _present _help
+-9.2209972202 IP  _present _present _try
+-14.8725432016 IP  _might _like _non-finite
+-9.2209972202 IP  _'d _like _non-finite _make
+-8.52785170099 IP  _past _use
+-9.2209972202 IP  _past _saw _present _do
+-8.12238714666 IP  _shall _make
+-8.52785170099 IP  _present _tie
+-9.2209972202 IP  _past _think _null _might _like _non-finite
+-9.2209972202 IP  _would _kill
+-8.52785170099 IP  _present _try _non-finite _do
+-7.8347053511 IP  _present _carry
+-7.61086045812 IP  _can _see
+-9.2209972202 IP  _past _show
+-8.52785170099 IP  _present _win
+-7.8347053511 IP  _present _be _in
+-9.2209972202 IP  _would _eat
+-7.8347053511 IP  _present _move
+-9.2209972202 IP  _present _bump
+-9.2209972202 IP  _present _think _null _have _non-finite _do
+-9.2209972202 IP  _past _untie
+-7.61086045812 IP  _should _put
+-9.20705975834 IP  _non-finite _draw
+-9.2209972202 IP  _present _want _on
+-6.38737429195 IP  _present _tell
+-8.12238714666 IP  _present _go _to
+-9.2209972202 IP  _present _go _non-finite _ask
+-5.45939243643 IP  _present _need
+-9.2209972202 IP  _non-finite _sit _on
+-9.2209972202 IP  _'ll _forget
+-8.52785170099 IP  _would _like _non-finite _sing
+-9.2209972202 IP  _present _be _go _non-finite _make
+-9.2209972202 IP  _could _help _with
+-9.2209972202 IP  _would _know
+-9.2209972202 IP  _can _go
+-9.2209972202 IP  _present _think _null _might _have
+-14.8725432016 IP  _present _dress
+-9.2209972202 IP  _present _think _null _present _cry
+-9.2209972202 IP  _present _go _non-finite _name
+-9.2209972202 IP  _can _miss
+-7.61086045812 IP  _present _want _non-finite
+-14.8725432016 IP  _non-finite _live
+-8.12238714666 IP  _should _draw
+-7.42865589581 IP  _present _put _on
+-14.8725432016 IP  _non-finite _tear
+-9.2209972202 IP  _present _suppose _non-finite _use
+-9.2209972202 IP  _present _be _go _non-finite _wear
+-9.2209972202 IP  _present _want _that _present _do
+-9.2209972202 IP  _present _raise
+-9.2209972202 IP  _present _go _non-finite _come
+-9.2209972202 IP  _past _sound _like
+-5.96236421173 IP  _present
+-7.8347053511 IP  _present _come _from
+-9.2209972202 IP  _would _knock
+-9.2209972202 IP  _shall _pretend _that _present _live
+-9.2209972202 IP  _present _like _non-finite _call
+-6.58169238084 IP  _should _do
+-14.8725432016 IP  _non-finite _hit
+-9.2209972202 IP  _present _like _non-finite _make
+-8.12238714666 IP  _past _learn
+-8.52785170099 IP  _will _have
+-9.2209972202 IP  _present _blast
+-8.12238714666 IP  _past _leave
+-9.2209972202 IP  _past _non-finite _race
+-8.52785170099 IP  _present _cost
+-9.2209972202 IP  _present _have _non-finite _say
+-8.52785170099 IP  _present _climb _on
+-8.52785170099 IP  _present _want _non-finite _eat
+-9.2209972202 IP  _can _stand
+-9.2209972202 IP  _'d _ask
+-9.2209972202 IP  _present _be _in _pick
+-9.2209972202 IP  _shall _play
+-14.8725432016 IP  _non-finite _go _present _see
+-9.2209972202 IP  _present _think _null _'d _find
+-9.2209972202 IP  _would _get
+-8.52785170099 IP  _past _write
+-8.12238714666 IP  _present _study
+-9.2209972202 IP  _present _need _non-finite _put
+-8.52785170099 IP  _non-finite _throw
+-14.8725432016 IP  _non-finite _open _for
+-9.2209972202 IP  _'d _see
+-7.61086045812 IP  _present _go _non-finite _eat
+-9.2209972202 IP  _past _tell _null _present _call
+-8.52785170099 IP  _present _have _non-finite _put
+-8.52609885507 IP  _non-finite _know
+-14.8725432016 IP  _'ll _need
+-9.2209972202 IP  _present _want _non-finite _send
+-9.2209972202 IP  _past _allow _non-finite _stand
+-8.52785170099 IP  _'d _like _non-finite _look _at
+-8.52785170099 IP  _can _put
+-7.8347053511 IP  _past _knock
+-9.2209972202 IP  _non-finite _use _non-finite _have
+-14.8725432016 IP  _non-finite _hurt
+-14.8725432016 IP  _non-finite _keep _in
+-6.73550899198 IP  _present _cook
+-8.12238714666 IP  _past _pick
+-8.52785170099 IP  _present _think _null _present _stick
+-8.52785170099 IP  _can _play _with
+-14.8725432016 IP  _non-finite _break
+-9.2209972202 IP  _past _be _part _of
+-9.2209972202 IP  _present _present _call
+-9.2209972202 IP  _'d _cut _on
+-9.2209972202 IP  _present _be _cut
+-8.52785170099 IP  _present _go _non-finite _color
+-9.2209972202 IP  _present _plan _non-finite _do
+-7.8347053511 IP  _present _go _on
+-6.82278603973 IP  _past _call
+-9.2209972202 IP  _will _need
+-9.2209972202 IP  _shall _look _at
+-9.2209972202 IP  _non-finite _look _for
+-8.52609885507 IP  _non-finite _give
+-9.2209972202 IP  _'d _like _non-finite _have
+-9.2209972202 IP  _past _eat _with
+-8.52785170099 IP  _can _draw
+-9.2209972202 IP  _non-finite _slide
+-9.2209972202 IP  _can _look _at
+-9.2209972202 IP  _will _go _to
+-7.27408791555 IP  _present _try
+-9.2209972202 IP  _past _do _throw
+-8.12238714666 IP  _present _smell _like
+-9.2209972202 IP  _present _know _that _present _like
+-6.12963901015 IP  _would _like
+-9.2209972202 IP  _non-finite _squeak
+-14.8725432016 IP  _would _bring
+-6.82278603973 IP  _present _look _for
+-8.52785170099 IP  _can _show
+-14.8725432016 IP  _non-finite _look
+-9.2209972202 IP  _past _climb
+-8.52785170099 IP  _shall _write
+-9.2209972202 IP  _present _suppose _non-finite _park
+-7.42865589581 IP  _present _keep
+-6.73580126138 IP  _will _do
+-1.08997873173 IP  _present _be
+-8.52785170099 IP  _past _turn
+-14.8725432016 IP  _non-finite _race
+-7.42865589581 IP  _present _talk _about
+-8.12238714666 IP  _present _touch
+-8.12238714666 IP  _present _drop
+-14.8725432016 IP  _non-finite _draw _picture _of
+-9.2209972202 IP  _past _order
+-9.2209972202 IP  _would _want _non-finite _break
+-9.2209972202 IP  _present _think _null _must _have
+-8.52785170099 IP  _could
+-4.67733252133 IP  _present _want
+-9.2209972202 IP  _non-finite _blow
+-8.52785170099 IP  _'ll _write
+-9.2209972202 IP  _present _shut
+-9.2209972202 IP  _non-finite _do _past _put
+-9.2209972202 IP  _present _sing _about
+-7.8347053511 IP  _present _taste _like
+-9.2209972202 IP  _non-finite _fight
+-8.52785170099 IP  _present _like _non-finite _do
+-9.2209972202 IP  _present _cross
+-9.2209972202 IP  _present _think _null _present _cook
+-6.82278603973 IP  _present _think _null _present _be _for
+-14.8725432016 IP  _non-finite _attach
+-9.2209972202 IP  _could _read
+-9.2209972202 IP  _present _want _non-finite _carry
+-9.2209972202 IP  _past _be _like
+-9.2209972202 IP  _present _be _get
+-9.2209972202 IP  _non-finite _color _on
+-8.12238714666 IP  _past _look _like
+-14.8725432016 IP  _non-finite _drive _over
+-9.2209972202 IP  _past _look _for
+-14.8725432016 IP  _non-finite _lie
+-9.2209972202 IP  _past _fall
+-8.52785170099 IP  _present _think _about
+-9.21749460127 IP  _non-finite _keep
+-7.02338580894 IP  _present _cut
+-9.2209972202 IP  _past _dig
+-9.2209972202 IP  _present _laugh _about
+-9.2209972202 IP  _present _like _non-finite _peel
+-14.8725432016 IP  _non-finite _hammer
+-9.2209972202 IP  _present _think _null _will _make
+-9.2209972202 IP  _present _go _into
+-8.52785170099 IP  _present _want _non-finite _show
+-9.2209972202 IP  _present _think _null _present _see
+-7.8347053511 IP  _shall _put
+-9.2209972202 IP  _will _keep _in
+-9.2209972202 IP  _can _write
+-9.2209972202 IP  _must _do
+-7.8347053511 IP  _past _like
+-9.2209972202 IP  _will _eat
+-9.2209972202 IP  _present _go _non-finite _sleep
+-9.2209972202 IP  _present _owe
+-14.8725432016 IP  _non-finite _sit
+-9.2209972202 IP  _present _be _those
+-9.2209972202 IP  _present _play _on
+-9.2209972202 IP  _would _help
+-9.2209972202 IP  _present _do _for
+-9.2209972202 IP  _present _get _ask
+-6.9180643021 IP  _present _go _non-finite _put
+-9.2209972202 IP  _present _reach
+-14.8725432016 IP  _non-finite _buy
+-8.52785170099 IP  _will _take
+-9.2209972202 IP  _present _smile _about
+-9.2209972202 IP  _present _teach _non-finite _do
+-8.52785170099 IP  _present _have _for
+-9.2209972202 IP  _past _want _non-finite _show
+-7.42865589581 IP  _present _talk
+-9.21749460127 IP  _non-finite _ask
+-9.2209972202 IP  _past _smell
+-9.2209972202 IP  _would _look _like
+-9.2209972202 IP  _past _stick _in
+-9.2209972202 IP  _non-finite _talk
+-8.52785170099 IP  _present _suppose _non-finite _do
+-9.2209972202 IP  _shall _tie
+-9.2209972202 IP  _non-finite _tell
+-7.60875821987 IP  _non-finite _show
+-9.2209972202 IP  _present _work _with
+-9.2209972202 IP  _past _grow
+-9.2209972202 IP  _non-finite _think _null _present
+-9.2209972202 IP  _present _paint
+-9.2209972202 IP  _present _mean _null _present _be
+-7.02338580894 IP  _present _find
+-7.8347053511 IP  _should
+-6.9180643021 IP  _present _spell
+-7.8347053511 IP  _present _be _that
+-9.2209972202 IP  _'ll _have
+-9.2209972202 IP  _present _do _make
+-9.2209972202 IP  _past _do _play
+-9.2209972202 IP  _past _pretend _null _past _be
+-9.2209972202 IP  _past _do _have
+-9.2209972202 IP  _non-finite _set _on
+-9.2209972202 IP  _present _be _mean
+-9.2209972202 IP  _would _want _non-finite _put
+-8.52785170099 IP  _can _drive
+-9.2209972202 IP  _would _like _non-finite _draw
+-9.2209972202 IP  _present _do _have
+-9.2209972202 IP  _past _say _null _past _want _non-finite _make
+-8.52785170099 IP  _can _blow
+-9.2209972202 IP  _present _peek
+-9.2209972202 IP  _shall _have
+-14.8725432016 IP  _non-finite _help _with
+-9.2209972202 IP  _will _have _non-finite _bring
+-9.2209972202 IP  _past _be _in
+-6.82214818632 IP  _non-finite _play
+-9.2209972202 IP  _present _squeeze
+-9.2209972202 IP  _present _go _non-finite _put _in
+-5.12618819846 IP  _present _make
+-6.51248239353 IP  _present _have _non-finite _do
+-9.2209972202 IP  _past _keep
+-8.12238714666 IP  _past _go _with
+-9.2209972202 IP  _past _bounce
+-9.2209972202 IP  _non-finite _go _non-finite
+-9.2209972202 IP  _present _get _from
+-6.58144184852 IP  _present _be _for
+-9.2209972202 IP  _past _watch
+-8.52785170099 IP  _'d _put
+-9.21749460127 IP  _non-finite _send
+-7.27358729 IP  _non-finite _look _at
+-7.14068177777 IP  _present _bring
+-9.2209972202 IP  _past _use _non-finite _go
+-7.02338580894 IP  _past _hear
+-9.2209972202 IP  _past _wash
+-7.61086045812 IP  _present _shave
+-8.52785170099 IP  _present _have _non-finite _go
+-4.50206314161 IP  _present _call
+-9.2209972202 IP  _non-finite _spell
+-6.9180643021 IP  _past _come
+-9.2209972202 IP  _past _forget _non-finite _take
+-9.2209972202 IP  _present _think _null _could _do
+-7.60945891712 IP  _non-finite _get
+-8.52785170099 IP  _can _throw
+-6.51224861216 IP  _present _sit
+-9.2209972202 IP  _non-finite _write _with
+-9.2209972202 IP  _present _see _come
+-7.42865589581 IP  _present _open
+-9.2209972202 IP  _will
+-7.83382854335 IP  _present _read
+-9.2209972202 IP  _will _look _like
+-14.1798691698 IP  _non-finite _cut
+-7.02338580894 IP  _would _put
+-7.42865589581 IP  _present _fall
+-9.2209972202 IP  _present _go _non-finite _buy
+-9.2209972202 IP  _non-finite _do _with
+-7.8347053511 IP  _present _start
+-9.2209972202 IP  _non-finite _roll
+-9.2209972202 IP  _non-finite _play _in
+-9.2209972202 IP  _present _like _non-finite _look
+-9.2209972202 IP  _present _go _non-finite _use _for
+-9.2209972202 IP  _can _hang
+-4.98643642896 IP  _present _put
+-9.2209972202 IP  _present _goING _non-finite _catch
+-7.27458879186 IP  _past _forget
+-9.2209972202 IP  _present _go _non-finite _hammer
+-14.8725432016 IP  _should _use
+-9.2209972202 IP  _present _like _non-finite _play
+-9.2209972202 IP  _present _lock
+-9.2209972202 IP  _present _do _stay
+-3.96310318758 IP  _present _go
+-9.2209972202 IP  _'ll _go
+-9.2209972202 IP  _will _grow
+-9.2209972202 IP  _present _like _non-finite _smell
+-9.2209972202 IP  _'ll _write _on
+-6.58169238084 IP  _present _leave
+-9.2209972202 IP  _present _close
+-8.52785170099 IP  _present _fit
+-9.2209972202 IP  _present _wind
+-9.2209972202 IP  _present _come _out _of
+-8.12238714666 IP  _'d _get
+-9.2209972202 IP  _present _Ernie _hide
+-9.2209972202 IP  _can _say
+-5.25031142608 IP  _present _think
+-8.52785170099 IP  _would _use _for
+-9.2209972202 IP  _present _present _bring
+-9.2209972202 IP  _present _press _into
+-8.52785170099 IP  _present _kill
+-9.2209972202 IP  _non-finite _think
+-9.2209972202 IP  _past _fix
+-8.12238714666 IP  _present _be _from
+-8.12238714666 IP  _present _be _go
+-7.02338580894 IP  _can _tell
+-9.2209972202 IP  _would _throw
+-14.8725432016 IP  _should _color
+-14.8725432016 IP  _non-finite _sing _to
+-7.61086045812 IP  _present _grow
+-9.2209972202 IP  _non-finite _kill
+-9.2209972202 IP  _past _want _non-finite _do
+-9.2209972202 IP  _non-finite _crawl _on
+-6.73580126138 IP  _past _buy
+-7.42865589581 IP  _present _drive
+-6.6557810608 IP  _past _take
+-8.52785170099 IP  _can _use
+-9.2209972202 IP  _past _try _non-finite _do
+-9.2209972202 IP  _past _ask _for
+-9.2209972202 IP  _present _let _present _get
+-5.92425428584 IP  _non-finite _eat
+-9.2209972202 IP  _would _turn
+-9.2209972202 IP  _non-finite _grow _on
+-21.8357331874 IP  LEX CP
+-13.2638624347 IP  _non-finite
+-9.2209972202 IP  _can _read
+-8.52785170099 IP  _present _point _to
+-9.2209972202 IP  _non-finite _go _on
+-8.52785170099 IP  _present _serve
+-9.2209972202 IP  _present _dream _about
+-7.8347053511 IP  _present _think _null _present _have
+-14.8725432016 IP  _non-finite _change
+-8.52785170099 IP  _present _let _present _play
+-14.8725432016 IP  _present _help
+-9.2209972202 IP  _present _unbuckle
+-9.21749460127 IP  _non-finite _paint
+-9.2209972202 IP  _present _present _put
+-4.53847949745 IP  _past _go
+-8.12238714666 IP  _present _go _non-finite _read
+-9.2209972202 IP  _past _read
+-9.2209972202 IP  _will _begin
+-9.2209972202 IP  _present _be _about _non-finite _drive _over
+-9.2209972202 IP  _present _go _non-finite _cook
+-9.2209972202 IP  _'d _like _non-finite _play
+-8.52785170099 IP  _non-finite _close
+-4.4498699594 IP  _present _get
+-7.83295250373 IP  _non-finite _drink
+-9.2209972202 IP  _would _like _non-finite _hook
+-9.2209972202 IP  _present _do _go _on
+-7.83295250373 IP  _non-finite _ride
+-14.8725432016 IP  _past _want _non-finite _make
+-9.2209972202 IP  _present _lie
+-9.2209972202 IP  _past _tell _null _past _saw
+-8.52785170099 IP  _should _look _like
+-9.2209972202 IP  _can _box
+-9.2209972202 IP  _present _brush
+-7.02299617339 IP  _present _hold
+-8.52785170099 IP  _present _live _in
+-7.61086045812 IP  _can _get
+-7.8347053511 IP  _past _miss
+-9.2209972202 IP  _non-finite _thank
+-8.12238714666 IP  _present _go _non-finite _take
+-8.12238714666 IP  _present _build _with
+-9.2209972202 IP  _non-finite _get _in
+-14.8725432016 IP  _non-finite _use _for
+-9.2209972202 IP  _present _shoot
+-8.12238714666 IP  _would _have
+-6.9180643021 IP  _can _make
+-9.2209972202 IP  _past _work
+-8.52785170099 IP  _present _laugh
+-9.2209972202 IP  _present _want _non-finite _keep
+-4.82616155965 IP  _present _go _non-finite _do
+-9.2209972202 IP  _present _hold _onto
+-9.2209972202 IP  _past _come _non-finite _stay
+-9.2209972202 IP  _present _null _present _put
+-14.1798691698 IP  _non-finite _color
+-7.14112008572 IP  _present _go _non-finite _make
+-9.2209972202 IP  _present _sound
+-8.52785170099 IP  _present _want _non-finite _change
+-14.8725432016 IP  _non-finite _fit
+-9.2209972202 IP  _past _think _null _past _be
+-9.2209972202 IP  _present _park
+-8.52785170099 IP  _past _have _non-finite _do
+-14.8725432016 IP  _non-finite _pay
+-9.2209972202 IP  _present _want _non-finite _lie
+-9.2209972202 IP  _non-finite _drink _out
+-8.12238714666 IP  _present _remember
+-9.2209972202 IP  _present _start _go
+-9.2209972202 IP  _present _go _non-finite _play _with
+-9.2209972202 IP  _past _use _non-finite _have
+-8.52785170099 IP  _present _be _of
+-8.52785170099 IP  _past _shave
+-8.12238714666 IP  _should _have
+-14.1798691698 IP  _non-finite _find
+-6.33023881291 IP  _past _tell
+-9.2209972202 IP  _present _think _null _might _need
+-9.2209972202 IP  _non-finite _put _on
+-14.1798691698 IP  _non-finite _talk _to
+-9.2209972202 IP  _present _have _do
+-14.1798691698 IP  _non-finite _bring
+-14.8725432016 IP  _present _allow _non-finite _touch
+-9.2209972202 IP  _past _say _null _past _be
+-6.58144184852 IP  _present _show
+-7.14112008572 IP  _present _push
+-7.61086045812 IP  _present _finish
+-8.52785170099 IP  _present _want _non-finite _play
+-7.42807161333 IP  _present _pick
+-7.42865589581 IP  _present _miss
+-9.2209972202 IP  _present _press
+-9.2209972202 IP  _would _want _non-finite _hurt
+-9.2209972202 IP  _present _like _non-finite _fee
+-6.6557810608 IP  _present _wear
+-9.2209972202 IP  _present _twist
+-8.52785170099 IP  _present _wait _for
+-8.52785170099 IP  _present _want _non-finite _make
+-9.2209972202 IP  _present _be _non-finite _do
+-9.2209972202 IP  _present _have _non-finite _wait
+-9.2209972202 IP  _present _want _non-finite _use
+-6.22491728761 IP  _present _use
+-7.61086045812 IP  _past _catch
+-8.52785170099 IP  _present _behave
+-9.2209972202 IP  _past _bump
+-9.2209972202 IP  _present _go _non-finite _fit
+-8.52785170099 IP  _past _pull
+-9.2209972202 IP  _present _pretend _null _present _be
+-21.8357331874 IP  LEX NP
+-9.2209972202 IP  _past _waste
+-8.52785170099 IP  _present _sneeze
+-7.8347053511 IP  _present _be _call
+-9.2209972202 IP  _past _choose
+-8.12238714666 IP  _should _call
+-14.8725432016 IP  _non-finite _mail
+-6.65551126456 IP  _past _saw
+-8.52785170099 IP  _non-finite _turn
+-9.2209972202 IP  _present _do _work
+-8.12238714666 IP  _past _cry
+-7.61086045812 IP  _past _happen
+-8.12238714666 IP  _'d _like _non-finite _see
+-9.2209972202 IP  _could _sleep
+-9.2209972202 IP  _can _use _as
+-8.52609885507 IP  _present _write _on
+-9.2209972202 IP  _can _unscrew
+-9.2209972202 IP  _present _do _live
+-9.2209972202 IP  _might _do
+-9.2209972202 IP  _non-finite _happen
+-7.8347053511 IP  _'d _like
+-9.2209972202 IP  _present _go _non-finite _show
+-8.52785170099 IP  _present _put _on _top _of
+-8.12238714666 IP  _present _go _non-finite _ride
+-7.27458879186 IP  _past _break
+-7.8347053511 IP  _would _like _non-finite _do
+-8.12238714666 IP  _present _be _like
+-8.52785170099 IP  _present _want _non-finite _look _at
+-9.2209972202 IP  _should _come
+-9.2209972202 IP  _non-finite _start _with
+-9.2209972202 IP  _present _see _work
+-9.2209972202 IP  _present _think _null _should _color
+-8.52434907624 IP  _non-finite _carry
+-9.2209972202 IP  _will _tie
+-9.2209972202 IP  _past _be _about
+-9.2209972202 IP  _past _cook
+-14.8725432016 IP  _non-finite _shave
+-9.2209972202 IP  _present _go _non-finite _carry
+-6.8224672131 IP  _present _ask
+-9.2209972202 IP  _present _bet _null _present _know
+-9.2209972202 IP  _past _stand
+-7.02338580894 IP  _present _feel
+-9.2209972202 IP  _will _look _at
+-8.12121824075 IP  _present _stand
+-8.52785170099 IP  _past _close
+-9.2209972202 IP  _shall _sing
+-5.48291322181 IP  _present _like
+-9.2209972202 IP  _non-finite _wash
+-9.2209972202 IP  _will _have _non-finite _keep _in
+-9.2209972202 IP  _present _want _non-finite _fly
+-9.2209972202 IP  _can _cut
+-9.2209972202 IP  _present _smell _of
+-9.2209972202 IP  _past _go _to _Boston
+-8.52785170099 IP  _past _go _non-finite _say
+-9.2209972202 IP  _present _mark
+-8.52785170099 IP  _present _start _with
+-9.2209972202 IP  _present _make _present _go
+-8.52785170099 IP  _present _think _null _past _be
+-9.2209972202 IP  _will _play _with
+-9.2209972202 IP  _will _let _present _look
+-9.2209972202 IP  _past _swallow
+-9.2209972202 IP  _will _use
+-7.42865589581 IP  _past _draw
+-9.2209972202 IP  _present _go _non-finite _give
+-9.2209972202 IP  _present _need _non-finite _open _for
+-8.52785170099 IP  _past _name
+-9.2209972202 IP  _present _go _non-finite _shave
+-8.52785170099 IP  _present _clean
+-8.52785170099 IP  _'ll _give
+-7.8347053511 IP  _present _play _with
+-8.52785170099 IP  _past _hide
+-9.2209972202 IP  _present _be _think _about
+-9.2209972202 IP  _might _like
+-8.52609885507 IP  _non-finite _put _in
+-6.6557810608 IP  _can
+-8.52785170099 IP  _present _blow
+-9.2209972202 IP  _present _dance
+-9.2209972202 IP  _present _put _for
+-9.2209972202 IP  _present _want _non-finite _know
+-8.12238714666 IP  _present _go _non-finite _draw
+-9.2209972202 IP  _non-finite _crack
+-8.52785170099 IP  _would _like _non-finite _play _with
+-7.8347053511 IP  _past _live
+-9.2209972202 IP  _present _pop
+-9.2209972202 IP  _should _cry
+-9.2209972202 IP  _would _go _look _at
+-9.2209972202 IP  _could _get
+-8.52785170099 IP  _would
+-9.2209972202 IP  _present _work _on
+-9.2209972202 IP  _present _advertise
+-9.2209972202 IP  _past _do _go
+-9.2209972202 IP  _past _come _in
+-9.2209972202 IP  _could _hold
+-6.33023881291 IP  _past _bring
+-9.2209972202 IP  _non-finite _get _shave
+-9.2209972202 IP  _present _be _underneath
+-7.27458879186 IP  _present _be _about
+-8.52434907624 IP  _non-finite _write
+-9.2209972202 IP  _past _mean _non-finite
+-8.52785170099 IP  _can _find
+-9.2209972202 IP  _past _fly
+-9.2209972202 IP  _present _go _non-finite _visit
+-9.2209972202 IP  _present _taste
+-6.58169238084 IP  _present _think _null
+-9.2209972202 IP  _present _want _non-finite _draw
+-7.8347053511 IP  _present _mix
+-7.61086045812 IP  _present _belong
+-7.61015944208 IP  _present _cry
+-9.2209972202 IP  _present _think _null _'ll _need
+-7.83120106791 IP  _non-finite _have
+-14.8725432016 IP  _non-finite _wait
+-9.2209972202 IP  _present _sit _in
+-7.61086045812 IP  _past _lose
+-7.8347053511 IP  _would _like _non-finite _have
+-9.2209972202 IP  _present _smell
+-8.12238714666 IP  _past _sleep
+-9.2209972202 IP  _will _fix
+-7.42865589581 IP  _past
+-8.52785170099 IP  _would _want _non-finite _do
+-9.2209972202 IP  _non-finite _listen
+-7.8347053511 IP  _past _cut
+-8.52785170099 IP  _present _fold _mean
+-6.22474192596 IP  _present _look
+-9.2209972202 IP  _present _like _non-finite _talk _to
+-8.52785170099 IP  _can _color
+-6.58069039089 IP  _non-finite _put
+-14.1798691698 IP  _non-finite _shoot
+-9.2209972202 IP  _non-finite _present _dress
+-7.14112008572 IP  _present _go _non-finite _get
+-7.8347053511 IP  _present _go _non-finite _go
+-9.2209972202 IP  _would _go
+-14.8725432016 IP  _might _have
+-9.2209972202 IP  _past _kiss
+-14.8725432016 IP  _non-finite _carry _to
+-9.2209972202 IP  _non-finite _grow
+-7.27458879186 IP  _present _be _on
+-9.2209972202 IP  _past _touch
+-8.52785170099 IP  _will _bring
+-8.52785170099 IP  _past _jump
+-8.52785170099 IP  _present _fix
+-9.2209972202 IP  _would _tie
+-9.2209972202 IP  _present _visit
+-8.12238714666 IP  _should _name
+-9.2209972202 IP  _non-finite _handle
+-9.2209972202 IP  _present _rid
+-14.8725432016 IP  _non-finite _love
+-8.52785170099 IP  _present _want _non-finite _see
+-8.52785170099 IP  _present _end
+-8.52785170099 IP  _present _want _non-finite _have
+-7.83207723087 IP  _non-finite _read
+-9.2209972202 IP  _past _scratch
+-8.52785170099 IP  _present _plug _into
+-9.2209972202 IP  _would _like _non-finite _paint
+-9.2209972202 IP  _past _use _non-finite _live
+-14.8725432016 IP  _will _make
+-8.52785170099 IP  _past _look _at
+-7.8347053511 IP  _non-finite _wake
+-9.2209972202 IP  _shall _call
+-8.52785170099 IP  _present _stay
+-9.2209972202 IP  _present _dig _for
+-5.72396138995 IP  _present _play
+-5.06173370933 IP  _present _think _null _present _be
+-8.12238714666 IP  _present _want _non-finite _read
+-8.52785170099 IP  _past _fell
+-9.2209972202 IP  _would _like _non-finite _read
+-14.8725432016 IP  _would _like _non-finite _eat
+-5.23162664725 IP  _past _get
+-8.52785170099 IP  _present _whisper
+-9.2209972202 IP  _present _go _present _pick
+-9.2209972202 IP  _present _turn _with
+-9.2209972202 IP  _past _park
+-14.8725432016 IP  _non-finite _sleep
+-9.2209972202 IP  _past _stop
+-9.2209972202 IP  _past _think _null
+-6.73580126138 IP  _present _sing
+-8.52785170099 IP  _can _save
+-9.2209972202 IP  _present _dream
+-9.2209972202 IP  _present _wanT _non-finite _sing
+-9.2209972202 IP  _past _frighten
+-9.2209972202 IP  _present _push _to
+-7.27458879186 IP  _present _put _in
+-8.52785170099 IP  _present _fee
+-9.2209972202 IP  _present _go _present _ask
+-9.2209972202 IP  _'d _like _non-finite _show
+-9.2209972202 IP  _present _go _in
+-8.12238714666 IP  _present _think _null _present _look _like
+-7.60805933769 IP  _non-finite _use
+-9.2209972202 IP  _present _know _null _present _allow _non-finite _touch
+-8.12238714666 IP  _present _need _for
+-7.27458879186 IP  _past _think
+-9.2209972202 IP  _present _suppose _non-finite _draw _picture _of
+-9.2209972202 IP  _present _like _non-finite _write
+-9.2209972202 IP  _present _snap
+-9.2209972202 IP  _can _fly
+-14.8725432016 IP  _non-finite _come
+-9.2209972202 IP  _can _scoop
+-8.52785170099 IP  _present _go _non-finite _use
+-9.2209972202 IP  _past _want _non-finite _go _present _see
+-8.12238714666 IP  _present _think _null _present _like _non-finite _eat
+-9.2209972202 IP  _could _have
+-7.61086045812 IP  _past _talk _about
+-8.52785170099 IP  _present _wash
+-5.17751840779 IP  _present _know
+-9.2209972202 IP  _past _get _turn
+-9.2209972202 IP  _past _be _do
+-9.2209972202 IP  _can _let _present _write _on
+-14.8725432016 IP  _non-finite _turn _like
+-14.8725432016 IP  _might _need
+-8.52785170099 IP  _should _wear
+-9.21749460127 IP  _would _think
+-7.8347053511 IP  _present _hit
+-9.2209972202 IP  _present _save
+-9.2209972202 IP  _present _start _pick
+-8.52785170099 IP  _present _throw
+-9.2209972202 IP  _present _jump
+-9.2209972202 IP  _past _get _from
+-9.2209972202 IP  _non-finite _ride _on
+-8.52785170099 IP  _present _want _non-finite _drink
+-9.2209972202 IP  _present _be _top
+-7.42807161333 IP  _could _do
+-9.2209972202 IP  _present _feed
+-8.52785170099 IP  _present _have _non-finite _eat
+-9.2209972202 IP  _can _start
+-9.2209972202 IP  _would _want
+-9.2209972202 IP  _present _peek _at
+-14.8725432016 IP  _non-finite _pull
+-9.2209972202 IP  _can _ride
+-9.2209972202 IP  _present _dash
+-2.7591377024 IP  _present _do
+-9.2209972202 IP  _present _be _to
+-14.8725432016 IP  _present _make _of
+-9.2209972202 IP  _would _like _present _color
+-2.15586971155 IP  _null
+-9.2209972202 IP  _present _be _picture _of
+-9.2209972202 IP  _past _sign
+-7.8347053511 IP  _'d _do
+-9.2209972202 IP  _should _begin
+-14.8725432016 IP  _non-finite _rock
+-8.52785170099 IP  _past _feed
+-5.50708613454 IP  _past _see
+-7.42865589581 IP  _present _juggle
+-9.2209972202 IP  _present _have _non-finite _use
+-9.2209972202 IP  _would _call
+-9.2209972202 IP  _present _go _present _show
+-9.2209972202 IP  _present _have _non-finite _keep _for
+-9.2209972202 IP  _could _win
+-9.2209972202 IP  _present _go _present _stand
+-9.2209972202 IP  _present _go _get
+-8.52785170099 IP  _present _suppose _null _present _be
+-14.8725432016 IP  _non-finite _catch
+-9.2209972202 IP  _present _back
+-9.2209972202 IP  _non-finite _break_dance
+-9.2209972202 IP  _will _push
+-9.2209972202 IP  _past _throw
+-8.12238714666 IP  _non-finite _talk _about
+-9.2209972202 IP  _non-finite _whine
+-14.8725432016 IP  _non-finite _visit
+-9.2209972202 IP  _present _like _non-finite _say
+-9.2209972202 IP  _non-finite _be
+-9.2209972202 IP  _present _think _about _give
+-8.12121824075 IP  _past _come _from
+-7.61086045812 IP  _past _play _with
+-7.27458879186 IP  _present _wake
+-9.2209972202 IP  _present _go _non-finite _tie
+-7.42865589581 IP  _past _drop
+-14.1798691698 IP  _non-finite _call
+-6.6557810608 IP  _past _play
+-9.2209972202 IP  _present _stop _pick
+-9.2209972202 IP  _present _think _null _present _eat
+-8.52785170099 IP  _past _spill
+-9.2209972202 IP  _present _notice
+-9.2209972202 IP  _past _say _null _would _bring
+-9.2209972202 IP  _past _get _in
+-9.2209972202 IP  _past _go _non-finite _put
+-8.52785170099 IP  _can _give
+-9.2209972202 IP  _could _go
+-4.58582876574 IP  _present _see
+-9.2209972202 IP  _present _go _for
+-8.52785170099 IP  _present _be _play _with
+-9.2209972202 IP  _present _need _non-finite _push
+-9.2209972202 IP  _present _look _through
+-9.2209972202 IP  _present _swing
+-7.61086045812 IP  _present _count
+-9.2209972202 IP  _might _happen
+-9.2209972202 IP  _present _get _non-finite _stay
+-9.2209972202 IP  _would _like _non-finite _look _at
+-9.2209972202 IP  _present _like _non-finite _play _with
+-9.2209972202 IP  _past _paint
+-7.83207557389 IP  _non-finite _make
+-5.60970328571 IP  _past _make
+-9.2209972202 IP  _non-finite _do _on
+-9.2209972202 IP  _present _think _null _present _work
+-8.52785170099 IP  _'ll _get
+-14.8725432016 IP  _non-finite _play _at
+-9.2209972202 IP  _present _go _non-finite _shoot
+-9.2209972202 IP  _present _want _non-finite _tear
+-9.2209972202 IP  _'d _like _non-finite _do
+-21.8357331874 IP  LEX VP
+-9.2209972202 IP  _present _go _non-finite _find
+-7.42865589581 IP  _present _think _null _present _say
+-9.2209972202 IP  _present _string
+-14.8725432016 IP  _non-finite _smell
+-9.2209972202 IP  _present _go _non-finite _mail
+-8.52785170099 IP  _will _go
+-9.2209972202 IP  _would _shoot
+-7.8347053511 IP  _non-finite _count
+-9.2209972202 IP  _should _go
+-9.2209972202 IP  _non-finite _draw _on
+-14.8725432016 IP  _non-finite _name
+-8.52785170099 IP  _past _bear
+-9.2209972202 IP  _present _get _marry
+-8.5226023538 IP  _non-finite _see
+-9.2209972202 IP  _present _happen
+-9.2209972202 IP  _non-finite _pour _in
+-3.9273254976 IP  _past _do
+-8.12238714666 IP  _present _hide
+-9.2209972202 IP  _past _stay
+-7.61086045812 IP  _past _ask
+-9.2209972202 IP  _could _put _on
+-9.2209972202 IP  _can _come
+-9.2209972202 IP  _should _sing
+-9.2209972202 IP  _present _fight
+-9.2209972202 IP  _can _stay
+-9.2209972202 IP  _will _catch
+-9.21400420786 IP  _non-finite _touch
+-9.2209972202 IP  _can _take
+-7.51620047678 LEX  _cry
+-7.51620047678 LEX  _study
+-4.95347251972 LEX  _'ll
+-6.41879083408 LEX  _sit
+-7.51620047678 LEX  _catch
+-7.51620047678 LEX  _bear
+-7.51620047678 LEX  _shut
+-5.72564365352 LEX  _in
+-6.41838979137 LEX  _show
+-7.51620047678 LEX  _brush
+-7.51620047678 LEX  _give
+-7.51620047678 LEX  _run
+-6.13110876163 LEX  _eat
+-7.51620047678 LEX  _plan
+-7.51620047678 LEX  _fit
+-7.51620047678 LEX  _swing
+-6.82425594219 LEX  _must
+-7.51620047678 LEX  _finish
+-7.51620047678 LEX  _choose
+-7.51620047678 LEX  _miss
+-7.51620047678 LEX  _part
+-7.51620047678 LEX  _plug
+-6.4191920377 LEX  _smell
+-6.4191920377 LEX  _pretend
+-6.82365443841 LEX  _read
+-7.51620047678 LEX  _as
+-7.51620047678 LEX  _point
+-7.51620047678 LEX  _wash
+-6.82425594219 LEX  _push
+-3.73436281988 LEX  _can
+-7.51620047678 LEX  _cost
+-7.51620047678 LEX  _picture
+-6.41838979137 LEX  _talk
+-7.51620047678 LEX  _whine
+-7.51620047678 LEX  _leave
+-7.51620047678 LEX  _learn
+-7.51620047678 LEX  _behave
+-7.51620047678 LEX  _hurt
+-7.51620047678 LEX  _notice
+-7.51620047678 LEX  _magic
+-7.51620047678 LEX  _into
+-3.56727082412 LEX  _would
+-6.82425594219 LEX  _open
+-6.82425594219 LEX  _drink
+-6.82425594219 LEX  _sound
+-6.13140964925 LEX  _start
+-6.82425594219 LEX  _lie
+-7.51620047678 LEX  _bang
+-7.51620047678 LEX  _goING
+-7.51620047678 LEX  _lock
+-4.11732951709 LEX  _will
+-6.82425594219 LEX  _cut
+-4.34010168127 LEX  _have
+-6.82365443841 LEX  _take
+-7.51620047678 LEX  _dash
+-7.51620047678 LEX  _tip
+-7.51620047678 LEX  _settle
+-6.41879083408 LEX  _work
+-7.51620047678 LEX  _blow
+-7.51620047678 LEX  _blast
+-7.51620047678 LEX  _pop
+-7.51620047678 LEX  _hear
+-7.51620047678 LEX  _break
+-7.51620047678 LEX  _smoke
+-7.51620047678 LEX  _Boston
+-6.13080796452 LEX  _for
+-7.51620047678 LEX  _attach
+-2.30358633973 LEX  _past
+-6.82425594219 LEX  _press
+-7.51620047678 LEX  _unbuckle
+-6.13171062743 LEX  _that
+-7.51620047678 LEX  _break_dance
+-7.51620047678 LEX  _untie
+-6.82365443841 LEX  _try
+-6.13140964925 LEX  _know
+-7.51620047678 LEX  _bake
+-7.51620047678 LEX  _screw
+-7.51620047678 LEX  _juggle
+-7.51620047678 LEX  _knit
+-7.51620047678 LEX  _pay
+-7.51620047678 LEX  _mail
+-6.41879083408 LEX  _color
+-7.51620047678 LEX  _chase
+-3.26990545564 LEX  _go
+-6.82425594219 LEX  _out
+-7.51620047678 LEX  _love
+-7.51620047678 LEX  _fly
+-6.82425594219 LEX  _top
+-7.51620047678 LEX  _crack
+-7.51620047678 LEX  _back
+-6.82425594219 LEX  _climb
+-7.51620047678 LEX  _behind
+-7.51620047678 LEX  _understand
+-7.51620047678 LEX  _kiss
+-6.82365443841 LEX  _from
+-7.51620047678 LEX  _unscrew
+-7.51620047678 LEX  _ski
+-7.51620047678 LEX  _lay
+-1.34678337826 LEX  _present
+-7.51620047678 LEX  _dress
+-7.51620047678 LEX  _feed
+-7.51620047678 LEX  _offer
+-7.51620047678 LEX  _onto
+-5.57166489839 LEX  _make
+-7.51620047678 LEX  _through
+-5.72584423521 LEX  _look
+-7.51620047678 LEX  _throw
+-7.51620047678 LEX  _owe
+-6.82425594219 LEX  _dig
+-5.21493837394 LEX  _on
+-7.51620047678 LEX  _change
+-7.51620047678 LEX  _wrestle
+-7.51620047678 LEX  _flash
+-5.72604485714 LEX  _see
+-7.51620047678 LEX  _clean
+-7.51620047678 LEX  _hammer
+-7.51620047678 LEX  _bump
+-4.3399511582 LEX  _do
+-6.82425594219 LEX  _wanT
+-6.4191920377 LEX  _wait
+-5.90868749276 LEX  _need
+-5.43841294646 LEX  _say
+-4.95347251972 LEX  _shall
+-7.51620047678 LEX  _swallow
+-7.51620047678 LEX  _print
+-7.51620047678 LEX  _count
+-6.41879083408 LEX  _ask
+-6.82425594219 LEX  _fight
+-7.51620047678 LEX  _end
+-6.82425594219 LEX  _jump
+-6.4191920377 LEX  _pour
+-7.51620047678 LEX  _fall
+-7.51620047678 LEX  _snap
+-6.13110876163 LEX  _to
+-7.51620047678 LEX  _reach
+-7.51620047678 LEX  _stay
+-2.37072055018 LEX  _non-finite
+-7.51620047678 LEX  _string
+-7.51620047678 LEX  _remember
+-5.43886451567 LEX  _let
+-6.4191920377 LEX  _draw
+-6.82425594219 LEX  _stop
+-7.51620047678 LEX  _rid
+-6.41879083408 LEX  _keep
+-7.51620047678 LEX  _check
+-7.51620047678 LEX  _crawl
+-6.4191920377 LEX  _sing
+-6.82365443841 LEX  _stick
+-7.51620047678 LEX  _imagine
+-7.51620047678 LEX  _wunning
+-7.51620047678 LEX  _touch
+-7.51620047678 LEX  _buy
+-7.51620047678 LEX  _serve
+-7.51620047678 LEX  _walk
+-7.51620047678 LEX  _burn
+-7.51620047678 LEX  _frighten
+-6.82425594219 LEX  _fold
+-7.51620047678 LEX  _name
+-3.80477071255 LEX  _think
+-7.51620047678 LEX  _spill
+-3.9627773437 LEX  _like
+-7.51620047678 LEX  _advertise
+-6.82425594219 LEX  _peek
+-5.90772456539 LEX  _with
+-7.51620047678 LEX  _until
+-7.51620047678 LEX  _feel
+-7.51620047678 LEX  _whisper
+-6.13171062743 LEX  _tell
+-5.43856344687 LEX  _use
+-7.51620047678 LEX  _shoot
+-6.82425594219 LEX  _drive
+-7.51620047678 LEX  _win
+-7.51620047678 LEX  _twist
+-7.51620047678 LEX  _mix
+-6.82425594219 LEX  _tear
+-7.51620047678 LEX  _save
+-7.51620047678 LEX  _dump
+-7.51620047678 LEX  _visit
+-6.4191920377 LEX  _mean
+-6.41879083408 LEX  _at
+-7.51620047678 LEX  _hook
+-7.51620047678 LEX  _scratch
+-7.51620047678 LEX  _shave
+-3.66828019003 LEX  _null
+-7.51620047678 LEX  _send
+-7.51620047678 LEX  _order
+-7.51620047678 LEX  _knock
+-7.51620047678 LEX  _they
+-4.68518128019 LEX  _could
+-7.51620047678 LEX  _smile
+-7.51620047678 LEX  _squeeze
+-6.82425594219 LEX  _laugh
+-3.80465320719 LEX  _be
+-5.90868749276 LEX  _suppose
+-7.51620047678 LEX  _unwind
+-7.51620047678 LEX  _drop
+-6.82425594219 LEX  _forget
+-7.51620047678 LEX  _wind
+-6.82425594219 LEX  _wake
+-6.4191920377 LEX  _sleep
+-6.82425594219 LEX  _carry
+-7.51620047678 LEX  _those
+-5.12005498571 LEX  _get
+-6.82365443841 LEX  _bring
+-7.51620047678 LEX  _remove
+-7.51620047678 LEX  _spell
+-7.51620047678 LEX  _handle
+-7.51620047678 LEX  _pull
+-5.57183685265 LEX  _play
+-5.43811201356 LEX  _put
+-6.82365443841 LEX  _dream
+-7.51620047678 LEX  _race
+-7.51620047678 LEX  _bet
+-6.82425594219 LEX  _live
+-7.51620047678 LEX  _cook
+-6.82425594219 LEX  _hide
+-7.51620047678 LEX  _happen
+-6.82425594219 LEX  _fix
+-6.82365443841 LEX  _ride
+-7.51620047678 LEX  _waste
+-5.72584423521 LEX  _about
+-5.43871396994 LEX  _come
+-7.51620047678 LEX  _charge
+-7.51620047678 LEX  _roll
+-7.51620047678 LEX  _raise
+-7.51620047678 LEX  _park
+-7.51620047678 LEX  _sneeze
+-5.57235289292 LEX  _might
+-7.51620047678 LEX  _close
+-7.51620047678 LEX  _Ernie
+-6.82425594219 LEX  _listen
+-7.51620047678 LEX  _scoop
+-6.82425594219 LEX  _kill
+-7.51620047678 LEX  _cross
+-7.51620047678 LEX  _underneath
+-7.51620047678 LEX  _wave
+-7.51620047678 LEX  _lose
+-7.51620047678 LEX  _dance
+-6.82425594219 LEX  _stand
+-6.82365443841 LEX  _help
+-7.51620047678 LEX  _box
+-7.51620047678 LEX  _sell
+-7.51620047678 LEX  _rock
+-6.13171062743 LEX  _turn
+-7.51620047678 LEX  _bounce
+-7.51620047678 LEX  _transcribe
+-7.51620047678 LEX  _hit
+-7.51620047678 LEX  _over
+-7.51620047678 LEX  _sign
+-7.51620047678 LEX  _step
+-6.41838979137 LEX  _of
+-6.82425594219 LEX  _saw
+-7.51620047678 LEX  _find
+-3.9348874953 LEX  _want
+-7.51620047678 LEX  _watch
+-7.51620047678 LEX  _meet
+-7.51620047678 LEX  _hang
+-7.51620047678 LEX  _tie
+-6.82425594219 LEX  _belong
+-6.82365443841 LEX  _call
+-6.82425594219 LEX  _move
+-7.51620047678 LEX  _thank
+-7.51620047678 LEX  _fee
+-7.51620047678 LEX  _paint
+-7.51620047678 LEX  _slide
+-7.51620047678 LEX  _mark
+-6.82425594219 LEX  _allow
+-6.82425594219 LEX  _build
+-7.51620047678 LEX  _begin
+-4.57404142261 LEX  _should
+-6.4191920377 LEX  _hold
+-7.51620047678 LEX  _fell
+-6.82365443841 LEX  _wear
+-7.51620047678 LEX  _speak
+-7.51620047678 LEX  _marry
+-7.51620047678 LEX  _peel
+-7.51620047678 LEX  _pick
+-6.82425594219 LEX  _grow
+-4.62810159907 LEX  _'d
+-5.90772456539 LEX  _write
+-7.51620047678 LEX  _set
+-6.82425594219 LEX  _taste
+-7.51620047678 LEX  _squeak
+-6.82425594219 LEX  _teach
+-2.31785256512 NP  _Boston
+-2.31785256512 NP  _that
+-2.31785256512 NP  _top
+-4.88280192259 NP  LEX
+-2.31785256512 NP  _top _of
+-2.31785256512 NP  _part _of
+-2.31785256512 NP  _Ernie _hide
+-2.31785256512 NP  _they
+-2.31785256512 NP  _those
+-1.66392609772 NP  _picture _of
+-4.88280192259 NP  LEX PP
+-4.88280192259 NP  LEX VP
+-2.31900997266 PP  _in
+-4.87381982627 PP  _as
+-3.49989675695 PP  _into
+-2.24654119585 PP  _for
+-4.87381982627 PP  _out
+-8.98469369044 PP  LEX
+-4.87381982627 PP  _behind
+-3.49575596429 PP  _from
+-4.87381982627 PP  _onto
+-4.87381982627 PP  _through
+-1.7067551175 PP  _on
+-4.87381982627 PP  _out _of
+-2.17897113703 PP  _to
+-4.87381982627 PP  _about _give
+-3.09029085618 PP  _like
+-4.87381982627 PP  _on _top _of
+-2.1125655891 PP  _with
+-3.49575596429 PP  _at
+-4.87381982627 PP  _to _Boston
+-4.87381982627 PP  _at _cook
+-2.80260878373 PP  _about
+-8.98469369044 PP  LEX IP
+-8.98469369044 PP  LEX NP
+-4.87381982627 PP  _underneath
+-4.87381982627 PP  _over
+-2.68758437051 PP  _of
+-8.98469369044 PP  LEX PP
+-8.98469369044 PP  LEX VP
+-4.87381982627 PP  _in _pick
+-4.87381982627 PP  _on _to
+-4.87381982627 PP  _about _non-finite _drive _over
+1.11021097099e-16 START  IP
+-5.3796037109 VP  _look _like
+-6.98786791428 VP  _like _non-finite _look
+-6.98786791428 VP  _study
+-6.98786791428 VP  _be _part _of
+-6.98786791428 VP  _have _non-finite _wait
+-6.98786791428 VP  _let _present _have
+-5.8902336208 VP  _sit
+-5.60267386503 VP  _catch
+-6.98786791428 VP  _bear
+-6.98786791428 VP  _tell _null _past _saw
+-5.37901668417 VP  _show
+-6.98786791428 VP  _brush
+-6.98786791428 VP  _ask _for
+-4.90971018754 VP  _give
+-6.98786791428 VP  _jump _in
+-5.19684185176 VP  _eat
+-6.98786791428 VP  _need _non-finite _push
+-6.98786791428 VP  _swing
+-5.8902336208 VP  _finish
+-6.29545414043 VP  _work _on
+-5.8902336208 VP  _smell
+-6.98786791428 VP  _let _present _play
+-5.37931015446 VP  _read
+-6.98786791428 VP  _have _non-finite _get
+-6.98786791428 VP  _think _null _past _eat
+-5.8902336208 VP  _wash
+-6.98786791428 VP  _be _null _present _sit _on
+-6.29545414043 VP  _like _non-finite _have
+-5.60267386503 VP  _talk
+-6.98786791428 VP  _whine
+-6.98786791428 VP  _taste _like
+-6.98786791428 VP  _behave
+-5.8902336208 VP  _hurt
+-6.98786791428 VP  _notice
+-6.98786791428 VP  _be _about _non-finite _drive _over
+-6.98786791428 VP  _do _for
+-6.98786791428 VP  _go _present _get
+-6.98786791428 VP  _want _non-finite _keep
+-6.98786791428 VP  _go _non-finite _visit
+-6.98786791428 VP  _go _non-finite _wear
+-6.29545414043 VP  _open
+-6.98786791428 VP  _get _shave
+-6.29545414043 VP  _drink
+-6.98786791428 VP  _like _non-finite _rock
+-6.98786791428 VP  _sleep _with
+-6.98786791428 VP  _sound
+-6.98786791428 VP  _pretend _null _present _be
+-6.98786791428 VP  _say _null _present _do
+-5.8902336208 VP  _start
+-6.98786791428 VP  _think _null _present _be _for
+-6.98786791428 VP  _wanT _non-finite _draw
+-6.98786791428 VP  _think _null _would _think
+-6.98786791428 VP  _come _in
+-6.98786791428 VP  _be _they
+-6.98786791428 VP  _like _non-finite _bring
+-6.98786791428 VP  _go _play _with
+-6.98786791428 VP  _want _non-finite _fly
+-6.98786791428 VP  _dig _for
+-5.04321536338 VP  _cut
+-6.29545414043 VP  _use _non-finite _have
+-6.98786791428 VP  _come _present _help
+-6.98786791428 VP  _go _non-finite _chase
+-6.98786791428 VP  _settle
+-6.98786791428 VP  _tip
+-6.98786791428 VP  _get _on
+-6.98786791428 VP  _go _non-finite _eat
+-6.98786791428 VP  _sing _to
+-5.60267386503 VP  _work
+-6.98786791428 VP  _be _finish
+-6.98786791428 VP  _pop
+-6.98786791428 VP  _blast
+-6.29545414043 VP  _hear
+-5.60267386503 VP  _break
+-6.98786791428 VP  _like _non-finite _read
+-6.98786791428 VP  _want _non-finite _read
+-6.29545414043 VP  _attach
+-6.98786791428 VP  _allow _non-finite _touch
+-6.98786791428 VP  _want _non-finite _go _present _see
+-6.98786791428 VP  _want _non-finite _go
+-6.98786791428 VP  _go _non-finite _go
+-6.98786791428 VP  _suppose _non-finite _use
+-6.98786791428 VP  _unbuckle
+-6.98786791428 VP  _break_dance
+-6.98786791428 VP  _untie
+-6.98786791428 VP  _listen _to
+-6.98786791428 VP  _pretend _null _past _be
+-5.37931015446 VP  _know
+-6.98786791428 VP  _fight _about
+-6.98786791428 VP  _bake
+-6.98786791428 VP  _go _non-finite _write
+-6.98786791428 VP  _think _null _present _make _of
+-6.98786791428 VP  _sit _in
+-6.29545414043 VP  _want _non-finite _make
+-6.98786791428 VP  _go _non-finite _fix _with
+-5.60230695987 VP  _color
+-6.98786791428 VP  _do _stay
+-6.98786791428 VP  _chase
+-6.98786791428 VP  _go _present _ask
+-6.98786791428 VP  _sing _about
+-4.42404709774 VP  _go
+-5.8902336208 VP  _fly
+-6.98786791428 VP  _like _non-finite _hook
+-6.98786791428 VP  _be _go _non-finite _do
+-6.29545414043 VP  _write _with
+-6.98786791428 VP  _like _non-finite _talk _to
+-13.5128975721 VP  LEX
+-6.98786791428 VP  _want _non-finite _eat
+-6.98786791428 VP  _draw _on
+-6.98786791428 VP  _say _null _would _bring
+-6.98786791428 VP  _like _non-finite _draw
+-6.98786791428 VP  _step _on
+-6.98786791428 VP  _unscrew
+-6.98786791428 VP  _do _past _put
+-6.98786791428 VP  _move _to
+-6.98786791428 VP  _ski
+-5.8902336208 VP  _look _for
+-6.29545414043 VP  _feed
+-4.68601622799 VP  _make
+-5.8902336208 VP  _look
+-6.98786791428 VP  _put _on _top _of
+-5.19733108856 VP  _throw
+-6.98786791428 VP  _owe
+-6.98786791428 VP  _go _present _stand
+-6.98786791428 VP  _think _null _must _have
+-6.29545414043 VP  _think _null _present _do
+-6.98786791428 VP  _be _to
+-6.98786791428 VP  _wait _until _present _come
+-6.29545414043 VP  _think _null _present _be
+-6.98786791428 VP  _have _non-finite _put
+-6.29545414043 VP  _bump
+-6.98786791428 VP  _be _that
+-6.98786791428 VP  _think _null _could _do
+-3.99301579334 VP  _do
+-6.98786791428 VP  _have _non-finite _go
+-6.29545414043 VP  _think _null _past _be
+-5.60267386503 VP  _go _on
+-6.98786791428 VP  _like _non-finite _call
+-5.3796037109 VP  _need
+-6.98786791428 VP  _be _lie _on
+-6.98786791428 VP  _sleep _in
+-4.90915977931 VP  _say
+-6.98786791428 VP  _draw _picture _of
+-6.98786791428 VP  _swallow
+-6.29545414043 VP  _like _non-finite _look _at
+-6.98786791428 VP  _end
+-6.98786791428 VP  _think _null _present _see
+-6.98786791428 VP  _think _null _should _color
+-6.29545414043 VP  _jump
+-6.29545414043 VP  _be _in
+-5.8902336208 VP  _fall
+-6.98786791428 VP  _be _cut
+-6.98786791428 VP  _go _non-finite _call
+-6.98786791428 VP  _snap
+-6.98786791428 VP  _want _non-finite _play
+-6.98786791428 VP  _think _null _might _need
+-6.98786791428 VP  _think _null _present _say
+-6.98786791428 VP  _want _non-finite _drink
+-6.98786791428 VP  _forget _non-finite _take
+-5.3796037109 VP  _stay
+-13.5128975721 VP  LEX CP
+-6.98786791428 VP  _be _play _with
+-5.8902336208 VP  _stop
+-6.98786791428 VP  _rid
+-5.8902336208 VP  _keep
+-6.98786791428 VP  _have _do
+-6.98786791428 VP  _like _non-finite _show
+-6.98786791428 VP  _look _like _present _do
+-5.3796037109 VP  _sing
+-6.98786791428 VP  _stick
+-6.98786791428 VP  _go _non-finite _see
+-6.98786791428 VP  _go _non-finite _carry _to
+-6.98786791428 VP  _think _null _present _stick
+-6.29545414043 VP  _buy
+-6.29545414043 VP  _think _about
+-6.98786791428 VP  _burn
+-5.8902336208 VP  _like _non-finite _do
+-6.98786791428 VP  _frighten
+-6.98786791428 VP  _be _go _non-finite _call
+-6.98786791428 VP  _need _non-finite _open _for
+-6.98786791428 VP  _fold
+-5.60267386503 VP  _name
+-5.60230695987 VP  _think
+-6.98786791428 VP  _see _with
+-6.98786791428 VP  _go _into
+-6.98786791428 VP  _see _come
+-6.98786791428 VP  _advertise
+-6.98786791428 VP  _get _ask
+-6.98786791428 VP  _get _non-finite _stay
+-6.98786791428 VP  _peek
+-6.98786791428 VP  _mean _non-finite
+-6.98786791428 VP  _set _on
+-6.29545414043 VP  _want _non-finite _put
+-6.98786791428 VP  _like _non-finite _write
+-5.60267386503 VP  _tell
+-5.8902336208 VP  _shoot
+-5.8902336208 VP  _drive
+-6.29545414043 VP  _win
+-6.98786791428 VP  _mix
+-6.29545414043 VP  _tear
+-6.98786791428 VP  _do _work
+-6.29545414043 VP  _save
+-5.8902336208 VP  _visit
+-6.98786791428 VP  _lie _on
+-5.8902336208 VP  _mean
+-6.98786791428 VP  _do _make
+-6.98786791428 VP  _want _on
+-5.8902336208 VP  _knock
+-6.98786791428 VP  _speak _of
+-6.29545414043 VP  _be _do
+-6.98786791428 VP  _mean _null _present _be
+-6.98786791428 VP  _want _non-finite _see
+-6.98786791428 VP  _squeeze
+-6.98786791428 VP  _have _non-finite _bring
+-6.98786791428 VP  _have _non-finite _write _on
+-6.29545414043 VP  _think _of
+-6.29545414043 VP  _have _for
+-6.98786791428 VP  _want _non-finite _shoot
+-6.98786791428 VP  _be _in _pick
+-6.98786791428 VP  _go _present _pick
+-6.98786791428 VP  _like _non-finite _drink
+-6.29545414043 VP  _wake
+-6.29545414043 VP  _carry
+-5.60267386503 VP  _sleep
+-6.98786791428 VP  _use _non-finite _say
+-6.98786791428 VP  _want _non-finite _cut
+-4.59103959277 VP  _get
+-6.98786791428 VP  _handle
+-5.8902336208 VP  _pull
+-6.98786791428 VP  _think _null _'d _find
+-6.98786791428 VP  _want _non-finite _change
+-6.98786791428 VP  _talk _to
+-6.98786791428 VP  _magic _to
+-6.29545414043 VP  _dream
+-6.98786791428 VP  _go _non-finite _ask
+-5.60267386503 VP  _live
+-6.98786791428 VP  _want _non-finite _pull
+-5.3796037109 VP  _cook
+-6.98786791428 VP  _go _non-finite _draw
+-5.60267386503 VP  _happen
+-5.8902336208 VP  _hide
+-6.98786791428 VP  _think _null _present _look _like
+-6.98786791428 VP  _know _that _present _like
+-6.98786791428 VP  _charge
+-6.98786791428 VP  _pour _into
+-6.98786791428 VP  _raise
+-6.98786791428 VP  _want _non-finite _carry
+-6.98786791428 VP  _push _to
+-6.29545414043 VP  _scoop
+-5.60267386503 VP  _go _non-finite _do
+-5.8902336208 VP  _kill
+-6.98786791428 VP  _cross
+-13.5128975721 VP  LEX IP
+-6.98786791428 VP  _grow _on
+-13.5128975721 VP  LEX NP
+-6.98786791428 VP  _like _non-finite _say
+-6.29545414043 VP  _be _like
+-6.98786791428 VP  _dance
+-6.98786791428 VP  _think _null _have _non-finite _do
+-6.98786791428 VP  _wait _for
+-6.29545414043 VP  _help
+-6.98786791428 VP  _color _on
+-6.98786791428 VP  _box
+-6.98786791428 VP  _like _non-finite _play _at
+-6.29545414043 VP  _bounce
+-5.8902336208 VP  _hit
+-6.98786791428 VP  _climb _on
+-6.98786791428 VP  _think _null _should _use
+-6.98786791428 VP  _tear _for
+-6.98786791428 VP  _want _non-finite _help _with
+-6.98786791428 VP  _think _null _would _like _non-finite _eat
+-6.98786791428 VP  _go _non-finite _hit
+-6.98786791428 VP  _carry _to
+-6.98786791428 VP  _saw
+-5.8902336208 VP  _want
+-6.98786791428 VP  _do _live
+-6.98786791428 VP  _wrestle _with
+-6.98786791428 VP  _go _get
+-5.60267386503 VP  _have _non-finite _do
+-6.98786791428 VP  _meet
+-6.98786791428 VP  _eat _with
+-6.98786791428 VP  _suppose _non-finite _park
+-13.5128975721 VP  LEX PP
+-6.98786791428 VP  _go _non-finite _carry
+-6.98786791428 VP  _think _null _present _make
+-5.8902336208 VP  _paint
+-6.98786791428 VP  _go _non-finite _mail
+-6.98786791428 VP  _pretend _that _present _live
+-6.98786791428 VP  _think _null _present _use _for
+-6.98786791428 VP  _slide
+-6.98786791428 VP  _want _non-finite _lie
+-6.98786791428 VP  _mark
+-6.98786791428 VP  _let _present _sit
+-6.98786791428 VP  _have _non-finite _keep _for
+-6.98786791428 VP  _build
+-6.98786791428 VP  _go _non-finite _tie
+-6.29545414043 VP  _like _non-finite _play _with
+-6.98786791428 VP  _cut _on
+-5.8902336208 VP  _hold
+-6.29545414043 VP  _like _non-finite _sing
+-6.98786791428 VP  _crawl _on
+-6.98786791428 VP  _think _null _'ll _need
+-6.98786791428 VP  _fell
+-5.37931015446 VP  _wear
+-6.98786791428 VP  _plug _into
+-5.88974450365 VP  _write _on
+-6.98786791428 VP  _work _with
+-6.29545414043 VP  _like _non-finite _eat
+-6.98786791428 VP  _be _non-finite _do
+-6.98786791428 VP  _peel
+-6.98786791428 VP  _let _present _hold
+-6.98786791428 VP  _go _look _at
+-6.98786791428 VP  _go _non-finite _give
+-5.3796037109 VP  _pick
+-5.60267386503 VP  _grow
+-6.98786791428 VP  _smell _of
+-6.98786791428 VP  _turn _to
+-5.04300565383 VP  _write
+-6.98786791428 VP  _build _with
+-6.29545414043 VP  _be _about
+-6.98786791428 VP  _teach
+-5.8902336208 VP  _cry
+-6.98786791428 VP  _shut
+-6.98786791428 VP  _smile _about
+-6.98786791428 VP  _bet _null _present _know
+-6.98786791428 VP  _think _null _past _say
+-6.98786791428 VP  _run
+-5.04321536338 VP  _play _with
+-5.8902336208 VP  _go _non-finite _put
+-6.29545414043 VP  _fit
+-6.98786791428 VP  _smell _like
+-6.98786791428 VP  _choose
+-5.8902336208 VP  _miss
+-6.98786791428 VP  _use _as
+-6.29545414043 VP  _dream _about
+-5.8902336208 VP  _push
+-6.98786791428 VP  _have _non-finite _eat
+-6.98786791428 VP  _cost
+-6.29545414043 VP  _be _at
+-6.29545414043 VP  _leave
+-6.29545414043 VP  _be _for
+-6.98786791428 VP  _learn
+-6.98786791428 VP  _go _non-finite _come
+-6.98786791428 VP  _go _non-finite _shave
+-6.98786791428 VP  _start _go
+-6.98786791428 VP  _go _non-finite _buy
+-6.98786791428 VP  _bang _on
+-6.98786791428 VP  _allow _non-finite _stand
+-6.29545414043 VP  _like _non-finite _play
+-6.98786791428 VP  _be _go _non-finite _wear
+-5.8902336208 VP  _go _to
+-6.98786791428 VP  _point _to
+-6.98786791428 VP  _go _have
+-6.29545414043 VP  _lie
+-6.98786791428 VP  _think _null _present _go
+-6.98786791428 VP  _suppose _non-finite _draw _picture _of
+-6.98786791428 VP  _be _picture _of
+-6.29545414043 VP  _put _in
+-6.98786791428 VP  _go _non-finite _play _with
+-6.29545414043 VP  _keep _in
+-6.98786791428 VP  _need _non-finite _put
+-6.98786791428 VP  _lock
+-6.98786791428 VP  _open _for
+-4.216287765 VP  _have
+-5.04300565383 VP  _take
+-6.98786791428 VP  _dash
+-6.98786791428 VP  _go _non-finite _talk _to
+-6.98786791428 VP  _go _present _see
+-6.98786791428 VP  _think _null _present _work
+-6.98786791428 VP  _go _non-finite _show
+-5.60267386503 VP  _blow
+-6.98786791428 VP  _play _in
+-6.98786791428 VP  _do _do
+-6.98786791428 VP  _live _in
+-6.98786791428 VP  _smoke
+-6.98786791428 VP  _go _sleep
+-6.29545414043 VP  _come _from
+-6.98786791428 VP  _be _mean
+-6.98786791428 VP  _let _present _get
+-6.98786791428 VP  _press
+-6.98786791428 VP  _try
+-6.98786791428 VP  _think _null _might _have
+-6.98786791428 VP  _turn _with
+-6.98786791428 VP  _say _null _past _be
+-6.98786791428 VP  _tell _null _past _go
+-6.98786791428 VP  _juggle
+-6.98786791428 VP  _screw
+-6.98786791428 VP  _want _non-finite _know
+-6.98786791428 VP  _mail
+-6.98786791428 VP  _pay
+-6.98786791428 VP  _think _null _present _cry
+-6.98786791428 VP  _print _on
+-6.29545414043 VP  _go _non-finite _say
+-6.29545414043 VP  _love
+-6.98786791428 VP  _be _underneath
+-6.98786791428 VP  _back
+-6.98786791428 VP  _crack
+-6.98786791428 VP  _let _present _write _on
+-6.98786791428 VP  _go _non-finite _sleep
+-6.29545414043 VP  _climb
+-6.98786791428 VP  _come _non-finite _stay
+-6.98786791428 VP  _think _null _present _cook
+-6.98786791428 VP  _laugh _about
+-6.98786791428 VP  _understand
+-6.98786791428 VP  _kiss
+-6.29545414043 VP  _stick _in
+-6.98786791428 VP  _get _marry
+-6.98786791428 VP  _lay
+-6.98786791428 VP  _dress
+-6.98786791428 VP  _keep _for
+-6.98786791428 VP  _offer
+-5.8902336208 VP  _sit _on
+-6.98786791428 VP  _dig
+-6.98786791428 VP  _go _non-finite _name
+-6.98786791428 VP  _fix _with
+-6.29545414043 VP  _change
+-6.98786791428 VP  _hold _on _to
+-6.98786791428 VP  _go _non-finite _find
+-6.98786791428 VP  _flash
+-6.98786791428 VP  _like _present _color
+-5.04279598824 VP  _see
+-6.98786791428 VP  _hammer
+-6.98786791428 VP  _clean
+-6.29545414043 VP  _get _from
+-6.98786791428 VP  _want _non-finite _find
+-6.98786791428 VP  _wait
+-6.98786791428 VP  _peek _at
+-6.98786791428 VP  _go _non-finite _cook
+-6.98786791428 VP  _go _non-finite _put _in
+-6.29545414043 VP  _count
+-6.98786791428 VP  _do _go _on
+-6.98786791428 VP  _saw _present _do
+-6.98786791428 VP  _tell _null _present _call
+-6.98786791428 VP  _have _present _make
+-5.37931015446 VP  _ask
+-6.29545414043 VP  _be _of
+-6.98786791428 VP  _want _non-finite _ride
+-6.29545414043 VP  _go _non-finite _have
+-5.8902336208 VP  _fight
+-6.98786791428 VP  _pour
+-5.8902336208 VP  _want _non-finite _do
+-6.98786791428 VP  _think _null _will _make
+-6.98786791428 VP  _reach
+-6.98786791428 VP  _be _go
+-6.98786791428 VP  _go _non-finite _sing _to
+-6.98786791428 VP  _string
+-6.98786791428 VP  _like _non-finite _smell
+-6.98786791428 VP  _remember
+-6.29545414043 VP  _help _with
+-5.3796037109 VP  _draw
+-6.98786791428 VP  _let
+-6.98786791428 VP  _check
+-6.98786791428 VP  _go _non-finite _use _for
+-6.98786791428 VP  _go _non-finite _sit
+-6.98786791428 VP  _think _null _present _have
+-6.98786791428 VP  _have _non-finite _pay
+-6.98786791428 VP  _imagine
+-5.8902336208 VP  _touch
+-6.98786791428 VP  _want _non-finite _hurt
+-6.98786791428 VP  _go _non-finite _ride
+-6.98786791428 VP  _think _null _present _eat
+-6.98786791428 VP  _serve
+-6.98786791428 VP  _have _non-finite _say
+-6.98786791428 VP  _go _non-finite _color
+-6.98786791428 VP  _look _through
+-6.29545414043 VP  _do _have
+-6.29545414043 VP  _go _non-finite _make
+-6.98786791428 VP  _walk
+-6.29545414043 VP  _try _non-finite _do
+-5.8902336208 VP  _use _for
+-6.98786791428 VP  _play _on
+-6.98786791428 VP  _knit _with
+-5.8902336208 VP  _talk _about
+-6.98786791428 VP  _go _with
+-6.98786791428 VP  _spill
+-6.98786791428 VP  _go _present _show
+-5.37931015446 VP  _like
+-6.98786791428 VP  _wanT _non-finite _sing
+-6.98786791428 VP  _want _non-finite _draw
+-6.98786791428 VP  _use _non-finite _live
+-6.98786791428 VP  _feel
+-6.29545414043 VP  _whisper
+-5.04321536338 VP  _use
+-6.98786791428 VP  _do _throw
+-6.98786791428 VP  _go _non-finite _take
+-6.98786791428 VP  _want _non-finite _look _at
+-6.98786791428 VP  _goING _non-finite _catch
+-6.98786791428 VP  _have _non-finite _use
+-6.98786791428 VP  _wake _from
+-6.98786791428 VP  _know _null _present _allow _non-finite _touch
+-6.98786791428 VP  _say _null _past _want _non-finite _make
+-6.98786791428 VP  _plan _non-finite _do
+-6.98786791428 VP  _twist
+-6.98786791428 VP  _think _about _give
+-6.98786791428 VP  _have _non-finite _cut
+-6.98786791428 VP  _want _non-finite _use
+-6.98786791428 VP  _think _null _present _like _non-finite _eat
+-5.8902336208 VP  _dump
+-6.98786791428 VP  _turn _like
+-6.98786791428 VP  _play _at
+-6.98786791428 VP  _want _non-finite _have
+-6.98786791428 VP  _hook
+-6.98786791428 VP  _go _for
+-6.29545414043 VP  _start _with
+-6.98786791428 VP  _be _those
+-6.98786791428 VP  _scratch
+-6.98786791428 VP  _like _non-finite
+-5.60267386503 VP  _shave
+-6.98786791428 VP  _use _non-finite _go
+-6.98786791428 VP  _send
+-6.98786791428 VP  _do _need
+-6.98786791428 VP  _order
+-6.98786791428 VP  _think _null _might _like _non-finite
+-6.98786791428 VP  _think _null _past _come _from
+-6.98786791428 VP  _hold _onto
+-6.98786791428 VP  _want _non-finite _tear
+-6.29545414043 VP  _ride _on
+-6.98786791428 VP  _stop _pick
+-6.98786791428 VP  _laugh
+-6.98786791428 VP  _suppose _null _present _be
+-5.37872329999 VP  _be
+-6.98786791428 VP  _stand _on
+-6.29545414043 VP  _drop
+-6.98786791428 VP  _unwind
+-6.29545414043 VP  _forget
+-6.98786791428 VP  _hide _behind
+-6.98786791428 VP  _be _get
+-6.98786791428 VP  _come _present _read
+-6.98786791428 VP  _wind
+-6.98786791428 VP  _go _non-finite
+-6.98786791428 VP  _be _think _about
+-6.98786791428 VP  _let _present _look
+-6.98786791428 VP  _be _go _non-finite _make
+-6.98786791428 VP  _go _non-finite _fit
+-6.98786791428 VP  _have _non-finite _keep _in
+-6.98786791428 VP  _like _non-finite _paint
+-5.37931015446 VP  _bring
+-6.98786791428 VP  _remove
+-6.29545414043 VP  _spell
+-6.98786791428 VP  _come _out _of
+-6.98786791428 VP  _see _work
+-4.79162133213 VP  _play
+-4.42393418631 VP  _put
+-6.98786791428 VP  _race
+-6.29545414043 VP  _like _non-finite _make
+-6.29545414043 VP  _be _on
+-6.98786791428 VP  _be _eat
+-6.98786791428 VP  _drink _out
+-5.8902336208 VP  _ride
+-5.60267386503 VP  _fix
+-6.98786791428 VP  _waste
+-6.98786791428 VP  _make _of
+-5.19733108856 VP  _come
+-6.29545414043 VP  _roll
+-6.98786791428 VP  _go _non-finite _turn _like
+-6.98786791428 VP  _like _non-finite _peel
+-6.98786791428 VP  _like _non-finite _fee
+-6.98786791428 VP  _go _non-finite _hammer
+-5.8902336208 VP  _park
+-5.8902336208 VP  _put _on
+-6.98786791428 VP  _go _non-finite _read
+-6.98786791428 VP  _fold _mean
+-6.98786791428 VP  _kill _with
+-6.98786791428 VP  _sneeze
+-6.98786791428 VP  _like _null _non-finite _color
+-5.8902336208 VP  _close
+-6.98786791428 VP  _want _non-finite
+-6.98786791428 VP  _listen
+-6.98786791428 VP  _like _non-finite _see
+-6.98786791428 VP  _want _non-finite _touch
+-6.98786791428 VP  _go _non-finite _shoot
+-6.98786791428 VP  _start _pick
+-6.29545414043 VP  _do _with
+-6.98786791428 VP  _get _turn
+-6.29545414043 VP  _get _in
+-6.98786791428 VP  _put _for
+-6.98786791428 VP  _lose
+-6.98786791428 VP  _wave
+-6.98786791428 VP  _do _put
+-6.98786791428 VP  _be _from
+-6.98786791428 VP  _go _play
+-6.98786791428 VP  _come _to
+-6.98786791428 VP  _be _top
+-5.60267386503 VP  _stand
+-6.98786791428 VP  _rock
+-6.98786791428 VP  _sell
+-6.98786791428 VP  _do _on
+-5.3796037109 VP  _turn
+-6.98786791428 VP  _think _null _present
+-6.98786791428 VP  _teach _non-finite _do
+-6.98786791428 VP  _transcribe
+-6.98786791428 VP  _be _call
+-6.98786791428 VP  _sign
+-6.98786791428 VP  _suppose _non-finite _do
+-6.98786791428 VP  _do _go
+-5.3796037109 VP  _find
+-6.98786791428 VP  _do _play
+-6.98786791428 VP  _need _for
+-6.98786791428 VP  _make _present _go
+-6.98786791428 VP  _have _non-finite _attach
+-6.29545414043 VP  _watch
+-6.98786791428 VP  _want _non-finite _send
+-5.60267386503 VP  _hang
+-5.3796037109 VP  _tie
+-6.98786791428 VP  _go _in
+-6.29545414043 VP  _think _null
+-6.98786791428 VP  _belong _to
+-6.98786791428 VP  _belong
+-4.90952668447 VP  _call
+-6.98786791428 VP  _move
+-6.98786791428 VP  _thank
+-6.98786791428 VP  _use _non-finite
+-6.98786791428 VP  _go _non-finite _use
+-13.5128975721 VP  LEX VP
+-6.29545414043 VP  _fee
+-5.04321536338 VP  _look _at
+-6.98786791428 VP  _be _at _cook
+-6.98786791428 VP  _go _to _Boston
+-6.98786791428 VP  _go _have _non-finite _love
+-6.29545414043 VP  _want _non-finite _show
+-6.29545414043 VP  _begin
+-6.98786791428 VP  _marry
+-6.29545414043 VP  _go _non-finite _get
+-6.98786791428 VP  _be _sit
+-6.98786791428 VP  _want _that _present _do
+-6.98786791428 VP  _pour _in
+-6.98786791428 VP  _have _non-finite _love
+-6.29545414043 VP  _sound _like
+-6.98786791428 VP  _taste
+-6.98786791428 VP  _want _non-finite _break
+-6.98786791428 VP  _squeak
+-6.98786791428 VP  _press _into
+-6.98786791428 VP  _drive _over
+-6.98786791428 VP  _wunning _to

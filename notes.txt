@@ -1,3 +1,7 @@
+1/19/25
+I am trying to keep my initial file structure as similar as possible. I will upload fg-source-code-restore data and output files but not code. That was acquired from Tim O'Donnell
+
+
 1/5/25 
 Transferring code to this repo for the Languages write-up. I completed the target plots generation code. Now I am working on the main facet plots. 
 All three of the facet plots are generated using R scripts in FG_project/code folder (ps_facet_plots.R, liu_facet_plot.R, dev_facet_plot.R). I want to incorporate the output files that generate these plots in the repo. The LSTM results seem to be generated from FG_project/whDepAcq_FG/lstm/testing_output.py. Although the main lstm results in the ps_facet_plots.R is FG_project/code/LSTM_sprouse_diff.csv which I need to figure out where that was generated (maybe from the code on richard's server, but I think I would've transfered that? -- I checked server code and I don't have anything more recent than my local files, so it must be from testing_output.py. Is the output file lex_models_test_results.csv a colleciton of all the results? Sprouse, liu, and devilliers? Or would I just uncomment each one to create the individual results?).
