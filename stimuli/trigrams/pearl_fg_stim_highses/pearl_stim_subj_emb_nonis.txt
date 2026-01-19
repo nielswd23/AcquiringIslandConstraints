@@ -1,0 +1,1 @@
+((START (IP (LEX present) (VP (LEX think) (CP (LEX null) (IP (LEX null) END))))))
