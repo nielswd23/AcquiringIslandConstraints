@@ -1,1 +1,3 @@
-This repository i
+This repository includes code and data for a project investigating how children might acquire syntactic island constraints through chunking. 
+
+The data includes outputs for Fragment Grammar (FG) models, Trigram models, and LSTM's. The code for generating the Trigram and LSTM output is included in the code folder. Primary source code for generating FG data was provided by Tim O'Donnell through personal communication and thus not included in this repository. But output grammars and supplementary code is included in the code/FG folder. We have compiled detailed notes on implementing this FG code locally, and we would be happy to assist with set-up if you would like to replicate these results. 
