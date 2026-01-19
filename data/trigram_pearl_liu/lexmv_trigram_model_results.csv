@@ -1,0 +1,122 @@
+trigrams,log_prob,condition,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,whether,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,whether,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,whether,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,whether,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,whether,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,whether,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,whether,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,whether,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,whether,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,whether,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,whether,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,whether,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,whether,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,whether,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,whether,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,whether,island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-33.05198050244292,whether,non-island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-33.05198050244292,whether,non-island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-33.05198050244292,whether,non-island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-33.05198050244292,whether,non-island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-33.05198050244292,whether,non-island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-33.05198050244292,whether,non-island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-33.05198050244292,whether,non-island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-33.05198050244292,whether,non-island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-33.05198050244292,whether,non-island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-33.05198050244292,whether,non-island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-33.05198050244292,whether,non-island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-33.05198050244292,whether,non-island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-33.05198050244292,whether,non-island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-33.05198050244292,whether,non-island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-33.05198050244292,whether,non-island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-33.05198050244292,whether,non-island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,adjunct,island,embedded
+"[('START', 'IP', 'VP_laugh'), ('IP', 'VP_laugh', 'CP'), ('VP_laugh', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-70.04357095476121,adjunct,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,adjunct,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,adjunct,island,embedded
+"[('START', 'IP', 'VP_sneeze'), ('IP', 'VP_sneeze', 'CP'), ('VP_sneeze', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-70.6276910057995,adjunct,island,embedded
+"[('START', 'IP', 'VP_notice'), ('IP', 'VP_notice', 'CP'), ('VP_notice', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-71.62516660438396,adjunct,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,adjunct,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,adjunct,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,adjunct,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,adjunct,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,adjunct,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,adjunct,island,embedded
+"[('START', 'IP', 'VP_smile'), ('IP', 'VP_smile', 'CP'), ('VP_smile', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-71.62516660438396,adjunct,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,adjunct,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,adjunct,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,adjunct,island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-33.05198050244292,adjunct,non-island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,adjunct,non-island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,adjunct,non-island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-33.05198050244292,adjunct,non-island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,adjunct,non-island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,adjunct,non-island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,adjunct,non-island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,adjunct,non-island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,adjunct,non-island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,adjunct,non-island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,adjunct,non-island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,adjunct,non-island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,adjunct,non-island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,adjunct,non-island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,adjunct,non-island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,adjunct,non-island,embedded
+"[('START', 'IP', 'VP_hear'), ('IP', 'VP_hear', 'NP'), ('VP_hear', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-90.32789902694377,np,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'NP'), ('VP_WUG', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-102.2911563835768,np,island,embedded
+"[('START', 'IP', 'VP_make'), ('IP', 'VP_make', 'NP'), ('VP_make', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-87.26545445984138,np,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'NP'), ('VP_WUG', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-102.2911563835768,np,island,embedded
+"[('START', 'IP', 'VP_make'), ('IP', 'VP_make', 'NP'), ('VP_make', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-87.26545445984138,np,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'NP'), ('VP_WUG', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-102.2911563835768,np,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'NP'), ('VP_WUG', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-102.2911563835768,np,island,embedded
+"[('START', 'IP', 'VP_make'), ('IP', 'VP_make', 'NP'), ('VP_make', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-87.26545445984138,np,island,embedded
+"[('START', 'IP', 'VP_make'), ('IP', 'VP_make', 'NP'), ('VP_make', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-87.26545445984138,np,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'NP'), ('VP_WUG', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-102.2911563835768,np,island,embedded
+"[('START', 'IP', 'VP_hear'), ('IP', 'VP_hear', 'NP'), ('VP_hear', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-90.32789902694377,np,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'NP'), ('VP_WUG', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-102.2911563835768,np,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'NP'), ('VP_WUG', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-102.2911563835768,np,island,embedded
+"[('START', 'IP', 'VP_make'), ('IP', 'VP_make', 'NP'), ('VP_make', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-87.26545445984138,np,island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'NP'), ('VP_WUG', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-102.2911563835768,np,island,embedded
+"[('START', 'IP', 'VP_hear'), ('IP', 'VP_hear', 'NP'), ('VP_hear', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-90.32789902694377,np,island,embedded
+"[('START', 'IP', 'VP_hear'), ('IP', 'VP_hear', 'CP'), ('VP_hear', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-67.82178058452931,np,non-island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,np,non-island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,np,non-island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,np,non-island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,np,non-island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,np,non-island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,np,non-island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,np,non-island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,np,non-island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,np,non-island,embedded
+"[('START', 'IP', 'VP_hear'), ('IP', 'VP_hear', 'CP'), ('VP_hear', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-67.82178058452931,np,non-island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,np,non-island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,np,non-island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,np,non-island,embedded
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'CP'), ('VP_WUG', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-79.78503794116236,np,non-island,embedded
+"[('START', 'IP', 'VP_hear'), ('IP', 'VP_hear', 'CP'), ('VP_hear', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-67.82178058452931,np,non-island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-77.82589494932348,subj,island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-77.82589494932348,subj,island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-77.82589494932348,subj,island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-77.82589494932348,subj,island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-77.82589494932348,subj,island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-77.82589494932348,subj,island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-77.82589494932348,subj,island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-77.82589494932348,subj,island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-77.82589494932348,subj,island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-77.82589494932348,subj,island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-77.82589494932348,subj,island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-77.82589494932348,subj,island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-77.82589494932348,subj,island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-77.82589494932348,subj,island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-77.82589494932348,subj,island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-77.82589494932348,subj,island,embedded
+"[('START', 'IP', 'VP_think'), ('IP', 'VP_think', 'CP'), ('VP_think', 'CP', 'IP'), ('CP', 'IP', 'END')]",-35.131544994160045,subj,non-island,embedded
+"[('START', 'IP', 'END')]",-4.092197198302631,whether,island,matrix
+"[('START', 'IP', 'END')]",-4.092197198302631,whether,non-island,matrix
+"[('START', 'IP', 'END')]",-4.092197198302631,adjunct,island,matrix
+"[('START', 'IP', 'END')]",-4.092197198302631,adjunct,non-island,matrix
+"[('START', 'IP', 'END')]",-4.092197198302631,np,island,matrix
+"[('START', 'IP', 'END')]",-4.092197198302631,np,non-island,matrix
+"[('START', 'IP', 'END')]",-4.092197198302631,subj,island,matrix
+"[('START', 'IP', 'END')]",-4.092197198302631,subj,non-island,matrix

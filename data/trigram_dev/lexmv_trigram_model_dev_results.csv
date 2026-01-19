@@ -1,0 +1,27 @@
+trigrams,log_prob,condition
+"[('START', 'IP', 'VP_say'), ('IP', 'VP_say', 'CP'), ('VP_say', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-41.99372536881343,ld
+"[('START', 'IP', 'VP_help'), ('IP', 'VP_help', 'IP'), ('VP_help', 'IP', 'VP'), ('IP', 'VP', 'END')]",-47.70815387591916,ld
+"[('START', 'IP', 'VP_say'), ('IP', 'VP_say', 'CP'), ('VP_say', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-41.99372536881343,ld
+"[('START', 'IP', 'VP_ask'), ('IP', 'VP_ask', 'CP'), ('VP_ask', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-66.83981717864734,ld
+"[('START', 'IP', 'VP_ask'), ('IP', 'VP_ask', 'CP'), ('VP_ask', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-66.83981717864734,ld
+"[('START', 'IP', 'VP_learn'), ('IP', 'VP_learn', 'CP'), ('VP_learn', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-68.77736567018059,ld
+"[('START', 'IP', 'VP_ask'), ('IP', 'VP_ask', 'CP'), ('VP_ask', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-66.83981717864734,ld
+"[('START', 'IP', 'VP_fix'), ('IP', 'VP_fix', 'NP'), ('VP_fix', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'PP'), ('VP', 'PP', 'END')]",-103.52935121841759,ld
+"[('START', 'IP', 'NP'), ('IP', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP_sneeze'), ('IP', 'VP_sneeze', 'END')]",-94.56598662917554,ld
+"[('START', 'IP', 'VP_drive'), ('IP', 'VP_drive', 'IP'), ('VP_drive', 'IP', 'VP'), ('IP', 'VP', 'END')]",-60.4136447640175,ld
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'IP'), ('VP_WUG', 'IP', 'VP'), ('IP', 'VP', 'END')]",-71.51562043496673,ld
+"[('START', 'IP', 'VP_buy'), ('IP', 'VP_buy', 'IP'), ('VP_buy', 'IP', 'VP'), ('IP', 'VP', 'END')]",-59.20785040307602,ld
+"[('START', 'IP', 'VP_get'), ('IP', 'VP_get', 'IP'), ('VP_get', 'IP', 'VP'), ('IP', 'VP', 'END')]",-35.84127598659464,ld
+"[('START', 'IP', 'VP_say'), ('IP', 'VP_say', 'END')]",-12.596856943257423,sd
+"[('START', 'IP', 'VP_help'), ('IP', 'VP_help', 'END')]",-27.754131988469968,sd
+"[('START', 'IP', 'VP_say'), ('IP', 'VP_say', 'END')]",-12.596856943257423,sd
+"[('START', 'IP', 'VP_ask'), ('IP', 'VP_ask', 'END')]",-20.433791798494646,sd
+"[('START', 'IP', 'VP_ask'), ('IP', 'VP_ask', 'END')]",-20.433791798494646,sd
+"[('START', 'IP', 'VP_learn'), ('IP', 'VP_learn', 'END')]",-24.177679587234756,sd
+"[('START', 'IP', 'VP_ask'), ('IP', 'VP_ask', 'END')]",-20.433791798494646,sd
+"[('START', 'IP', 'VP_fix'), ('IP', 'VP_fix', 'PP'), ('VP_fix', 'PP', 'END')]",-56.503797563949796,sd
+"[('START', 'IP', 'VP_drink'), ('IP', 'VP_drink', 'END')]",-19.39625242842859,sd
+"[('START', 'IP', 'VP_drive'), ('IP', 'VP_drive', 'END')]",-21.948256269481373,sd
+"[('START', 'IP', 'VP_WUG'), ('IP', 'VP_WUG', 'END')]",-44.152207611379836,sd
+"[('START', 'IP', 'VP_buy'), ('IP', 'VP_buy', 'END')]",-19.536667547598427,sd
+"[('START', 'IP', 'VP_get'), ('IP', 'VP_get', 'END')]",-12.83748008823629,sd

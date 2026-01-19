@@ -1,0 +1,27 @@
+trigrams,log_prob,condition
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-24.156722433926774,ld
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'IP'), ('VP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-13.64693802140525,ld
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-24.156722433926774,ld
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-24.156722433926774,ld
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-24.156722433926774,ld
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-24.156722433926774,ld
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-24.156722433926774,ld
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'NP'), ('VP', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'PP'), ('VP', 'PP', 'END')]",-74.78445154217249,ld
+"[('START', 'IP', 'NP'), ('IP', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-67.38841982060015,ld
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'IP'), ('VP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-13.64693802140525,ld
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'IP'), ('VP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-13.64693802140525,ld
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'IP'), ('VP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-13.64693802140525,ld
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'IP'), ('VP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-13.64693802140525,ld
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'END')]",-2.5708000623519474,sd
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'END')]",-2.5708000623519474,sd
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'END')]",-2.5708000623519474,sd
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'END')]",-2.5708000623519474,sd
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'END')]",-2.5708000623519474,sd
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'END')]",-2.5708000623519474,sd
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'END')]",-2.5708000623519474,sd
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'PP'), ('VP', 'PP', 'END')]",-12.418573277605415,sd
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'END')]",-2.5708000623519474,sd
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'END')]",-2.5708000623519474,sd
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'END')]",-2.5708000623519474,sd
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'END')]",-2.5708000623519474,sd
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'END')]",-2.5708000623519474,sd

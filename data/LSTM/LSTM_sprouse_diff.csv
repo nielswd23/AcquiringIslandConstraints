@@ -1,0 +1,81 @@
+dep_cond,island_type,mod_run,diff,se
+main,Complex NP Island,0,-0,0
+main,Complex NP Island,1,-0,0
+main,Complex NP Island,2,-0,0
+main,Complex NP Island,3,-0,0
+main,Complex NP Island,4,-0,0
+main,Complex NP Island,5,-0,0
+main,Complex NP Island,6,-0,0
+main,Complex NP Island,7,-0,0
+main,Complex NP Island,8,-0,0
+main,Complex NP Island,9,-0,0
+main,Subject Island,0,-0,0
+main,Subject Island,1,-0,0
+main,Subject Island,2,-0,0
+main,Subject Island,3,-0,0
+main,Subject Island,4,-0,0
+main,Subject Island,5,-0,0
+main,Subject Island,6,-0,0
+main,Subject Island,7,-0,0
+main,Subject Island,8,-0,0
+main,Subject Island,9,-0,0
+main,Whether Island,0,-0,0
+main,Whether Island,1,-0,0
+main,Whether Island,2,-0,0
+main,Whether Island,3,-0,0
+main,Whether Island,4,-0,0
+main,Whether Island,5,-0,0
+main,Whether Island,6,-0,0
+main,Whether Island,7,-0,0
+main,Whether Island,8,-0,0
+main,Whether Island,9,-0,0
+main,Adjunct Island,0,-0,0
+main,Adjunct Island,1,-0,0
+main,Adjunct Island,2,-0,0
+main,Adjunct Island,3,-0,0
+main,Adjunct Island,4,-0,0
+main,Adjunct Island,5,-0,0
+main,Adjunct Island,6,-0,0
+main,Adjunct Island,7,-0,0
+main,Adjunct Island,8,-0,0
+main,Adjunct Island,9,-0,0
+emb,Complex NP Island,0,0.14007139205932617,0.02959022825222317
+emb,Complex NP Island,1,0.17070773243904114,0.035199497199104104
+emb,Complex NP Island,2,0.13213858008384705,0.031589207966383474
+emb,Complex NP Island,3,0.06624436378479004,0.025944472287016882
+emb,Complex NP Island,4,0.1717909872531891,0.027422399406213764
+emb,Complex NP Island,5,0.15037772059440613,0.03200206440515183
+emb,Complex NP Island,6,0.15305659174919128,0.026216497552439752
+emb,Complex NP Island,7,0.1408252716064453,0.03072008475535051
+emb,Complex NP Island,8,0.14914432168006897,0.03073345172850523
+emb,Complex NP Island,9,0.14655113220214844,0.03220831039188839
+emb,Subject Island,0,0.48033106327056885,0.012564123607386934
+emb,Subject Island,1,0.528811901807785,0.013377250639703008
+emb,Subject Island,2,0.5065693855285645,0.012606654798060597
+emb,Subject Island,3,0.4666244387626648,0.014085647863116467
+emb,Subject Island,4,0.5388780534267426,0.010236763378507544
+emb,Subject Island,5,0.5109923779964447,0.01193093365657519
+emb,Subject Island,6,0.5518971979618073,0.011536837813283608
+emb,Subject Island,7,0.5054597556591034,0.014613207618699523
+emb,Subject Island,8,0.3865790367126465,0.013697631394884205
+emb,Subject Island,9,0.4747717082500458,0.016766986323465866
+emb,Whether Island,0,0.4877455234527588,0.03679257182753025
+emb,Whether Island,1,0.32246601581573486,0.034177700556911654
+emb,Whether Island,2,0.332877516746521,0.034732607881002124
+emb,Whether Island,3,0.3355124294757843,0.032191360268041834
+emb,Whether Island,4,0.2766294777393341,0.036121648790281256
+emb,Whether Island,5,0.4595952332019806,0.027532212996750818
+emb,Whether Island,6,0.4597664773464203,0.03203199477244951
+emb,Whether Island,7,0.5055325627326965,0.03264623161742209
+emb,Whether Island,8,0.42387649416923523,0.03219241069489131
+emb,Whether Island,9,0.4211626946926117,0.03678809782724135
+emb,Adjunct Island,0,0.11785441637039185,0.02858992488638621
+emb,Adjunct Island,1,-0.043021976947784424,0.03155763699670693
+emb,Adjunct Island,2,-0.06819429993629456,0.03077849546255463
+emb,Adjunct Island,3,-3.101229667663574e-4,0.02630158404183105
+emb,Adjunct Island,4,-0.07712134718894958,0.028201408549277333
+emb,Adjunct Island,5,0.16920307278633118,0.02953216795078916
+emb,Adjunct Island,6,0.08581072092056274,0.029588015595589056
+emb,Adjunct Island,7,0.12094756960868835,0.0311299680584313
+emb,Adjunct Island,8,0.03309771418571472,0.029307355670412736
+emb,Adjunct Island,9,0.021564006805419922,0.030858673037301564

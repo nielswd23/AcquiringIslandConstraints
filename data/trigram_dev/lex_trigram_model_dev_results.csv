@@ -1,0 +1,27 @@
+trigrams,log_prob,condition
+"[('START', 'IP_past', 'VP_say'), ('IP_past', 'VP_say', 'CP_null'), ('VP_say', 'CP_null', 'IP_past'), ('CP_null', 'IP_past', 'VP_buy'), ('IP_past', 'VP_buy', 'END')]",-63.80718095115466,ld
+"[('START', 'IP_past', 'VP_help'), ('IP_past', 'VP_help', 'IP_non-finite'), ('VP_help', 'IP_non-finite', 'VP_call'), ('IP_non-finite', 'VP_call', 'END')]",-65.08220139899746,ld
+"[('START', 'IP_past', 'VP_say'), ('IP_past', 'VP_say', 'CP_null'), ('VP_say', 'CP_null', 'IP_past'), ('CP_null', 'IP_past', 'VP_hurt'), ('IP_past', 'VP_hurt', 'END')]",-65.69904673994898,ld
+"[('START', 'IP_past', 'VP_ask'), ('IP_past', 'VP_ask', 'CP_WUG'), ('VP_ask', 'CP_WUG', 'IP_non-finite'), ('CP_WUG', 'IP_non-finite', 'VP_see'), ('IP_non-finite', 'VP_see', 'END')]",-88.67237076389556,ld
+"[('START', 'IP_past', 'VP_ask'), ('IP_past', 'VP_ask', 'CP_WUG'), ('VP_ask', 'CP_WUG', 'IP_non-finite'), ('CP_WUG', 'IP_non-finite', 'VP_bring'), ('IP_non-finite', 'VP_bring', 'END')]",-90.9920251072628,ld
+"[('START', 'IP_past', 'VP_learn'), ('IP_past', 'VP_learn', 'CP_WUG'), ('VP_learn', 'CP_WUG', 'IP_non-finite'), ('CP_WUG', 'IP_non-finite', 'VP_bake'), ('IP_non-finite', 'VP_bake', 'END')]",-100.65814206489156,ld
+"[('START', 'IP_past', 'VP_ask'), ('IP_past', 'VP_ask', 'CP_WUG'), ('VP_ask', 'CP_WUG', 'IP_non-finite'), ('CP_WUG', 'IP_non-finite', 'VP_ride'), ('IP_non-finite', 'VP_ride', 'END')]",-89.57876367005844,ld
+"[('START', 'IP_past', 'VP_fix'), ('IP_past', 'VP_fix', 'NP_WUG'), ('VP_fix', 'NP_WUG', 'CP_that'), ('NP_WUG', 'CP_that', 'IP_past'), ('CP_that', 'IP_past', 'VP'), ('IP_past', 'VP', 'lie'), ('VP', 'lie', 'PP_with'), ('lie', 'PP_with', 'END')]",-169.20285853268072,ld
+"[('START', 'IP_past', 'NP_WUG'), ('IP_past', 'NP_WUG', 'CP_WUG'), ('NP_WUG', 'CP_WUG', 'IP_past'), ('CP_WUG', 'IP_past', 'VP_sneeze'), ('IP_past', 'VP_sneeze', 'END')]",-110.38265591801152,ld
+"[('START', 'IP_past', 'VP_drive'), ('IP_past', 'VP_drive', 'IP_non-finite'), ('VP_drive', 'IP_non-finite', 'VP_WUG'), ('IP_non-finite', 'VP_WUG', 'END')]",-88.30612473440921,ld
+"[('START', 'IP_past', 'VP_WUG'), ('IP_past', 'VP_WUG', 'IP_non-finite'), ('VP_WUG', 'IP_non-finite', 'VP_sign'), ('IP_non-finite', 'VP_sign', 'END')]",-88.30612473440921,ld
+"[('START', 'IP_past', 'VP_buy'), ('IP_past', 'VP_buy', 'IP_non-finite'), ('VP_buy', 'IP_non-finite', 'VP_eat'), ('IP_non-finite', 'VP_eat', 'END')]",-62.5945881429176,ld
+"[('START', 'IP_past', 'VP_get'), ('IP_past', 'VP_get', 'IP_non-finite'), ('VP_get', 'IP_non-finite', 'VP_WUG'), ('IP_non-finite', 'VP_WUG', 'END')]",-66.50743857136273,ld
+"[('START', 'IP_past', 'VP_say'), ('IP_past', 'VP_say', 'END')]",-15.10371734101609,sd
+"[('START', 'IP_past', 'VP_help'), ('IP_past', 'VP_help', 'END')]",-36.7436714310669,sd
+"[('START', 'IP_past', 'VP_say'), ('IP_past', 'VP_say', 'END')]",-15.10371734101609,sd
+"[('START', 'IP_past', 'VP_ask'), ('IP_past', 'VP_ask', 'END')]",-23.763852231155525,sd
+"[('START', 'IP_past', 'VP_ask'), ('IP_past', 'VP_ask', 'END')]",-23.763852231155525,sd
+"[('START', 'IP_past', 'VP_learn'), ('IP_past', 'VP_learn', 'END')]",-24.7040346609647,sd
+"[('START', 'IP_past', 'VP_ask'), ('IP_past', 'VP_ask', 'END')]",-23.763852231155525,sd
+"[('START', 'IP_past', 'VP_fix'), ('IP_past', 'VP_fix', 'PP_with'), ('VP_fix', 'PP_with', 'END')]",-50.41506115153285,sd
+"[('START', 'IP_past', 'VP_drink'), ('IP_past', 'VP_drink', 'END')]",-29.3342804949292,sd
+"[('START', 'IP_past', 'VP_drive'), ('IP_past', 'VP_drive', 'END')]",-44.153062367204605,sd
+"[('START', 'IP_past', 'VP_WUG'), ('IP_past', 'VP_WUG', 'END')]",-44.153062367204605,sd
+"[('START', 'IP_past', 'VP_buy'), ('IP_past', 'VP_buy', 'END')]",-19.95042405835805,sd
+"[('START', 'IP_past', 'VP_get'), ('IP_past', 'VP_get', 'END')]",-15.420650840251572,sd

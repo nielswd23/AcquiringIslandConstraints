@@ -1,0 +1,122 @@
+trigrams,log_prob,condition,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,whether,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,adjunct,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'NP'), ('VP', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-65.46108555190271,np,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'NP'), ('VP', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-65.46108555190271,np,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'NP'), ('VP', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-65.46108555190271,np,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'NP'), ('VP', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-65.46108555190271,np,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'NP'), ('VP', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-65.46108555190271,np,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'NP'), ('VP', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-65.46108555190271,np,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'NP'), ('VP', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-65.46108555190271,np,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'NP'), ('VP', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-65.46108555190271,np,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'NP'), ('VP', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-65.46108555190271,np,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'NP'), ('VP', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-65.46108555190271,np,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'NP'), ('VP', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-65.46108555190271,np,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'NP'), ('VP', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-65.46108555190271,np,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'NP'), ('VP', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-65.46108555190271,np,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'NP'), ('VP', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-65.46108555190271,np,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'NP'), ('VP', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-65.46108555190271,np,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'NP'), ('VP', 'NP', 'CP'), ('NP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-65.46108555190271,np,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,np,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,np,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,np,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,np,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,np,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,np,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,np,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,np,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,np,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,np,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,np,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,np,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,np,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,np,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,np,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'VP'), ('IP', 'VP', 'END')]",-23.42692444030134,np,non-island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-72.14501141581553,subj,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-72.14501141581553,subj,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-72.14501141581553,subj,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-72.14501141581553,subj,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-72.14501141581553,subj,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-72.14501141581553,subj,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-72.14501141581553,subj,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-72.14501141581553,subj,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-72.14501141581553,subj,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-72.14501141581553,subj,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-72.14501141581553,subj,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-72.14501141581553,subj,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-72.14501141581553,subj,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-72.14501141581553,subj,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-72.14501141581553,subj,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'NP'), ('IP', 'NP', 'PP'), ('NP', 'PP', 'END')]",-72.14501141581553,subj,island,embedded
+"[('START', 'IP', 'VP'), ('IP', 'VP', 'CP'), ('VP', 'CP', 'IP'), ('CP', 'IP', 'END')]",-29.45099715675187,subj,non-island,embedded
+"[('START', 'IP', 'END')]",-4.092029350252744,whether,island,matrix
+"[('START', 'IP', 'END')]",-4.092029350252744,whether,non-island,matrix
+"[('START', 'IP', 'END')]",-4.092029350252744,adjunct,island,matrix
+"[('START', 'IP', 'END')]",-4.092029350252744,adjunct,non-island,matrix
+"[('START', 'IP', 'END')]",-4.092029350252744,np,island,matrix
+"[('START', 'IP', 'END')]",-4.092029350252744,np,non-island,matrix
+"[('START', 'IP', 'END')]",-4.092029350252744,subj,island,matrix
+"[('START', 'IP', 'END')]",-4.092029350252744,subj,non-island,matrix

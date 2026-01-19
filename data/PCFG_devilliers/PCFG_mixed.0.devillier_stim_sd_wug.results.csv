@@ -1,0 +1,14 @@
+Sentence,ConditionedTree,MAPTree,InsideScore,MAPScore,MAPInsideRatio,Entropy,Surprisal,KL,NumParses,ExpectedNumConstituents,ExpectedBoundaries
+"past say","(START  (IP  (LEX  past) (VP  (LEX  say))))","(START (IP (LEX past ) (VP (LEX say ) ) ) )",-16.7019207156,-16.7019207156,1.,0.,0.0148955989191,50.3739861276,1.,5.,3.;2.;4.
+"past help","(START  (IP  (LEX  past) (VP  (LEX  help))))","(START (IP (LEX past ) (VP (LEX help ) ) ) )",-20.9728141237,-20.9728141237,1.,0.,0.01272637853,67.45755976,1.,5.,3.;2.;4.
+"past say","(START  (IP  (LEX  past) (VP  (LEX  say))))","(START (IP (LEX past ) (VP (LEX say ) ) ) )",-16.7019207156,-16.7019207156,1.,0.,0.0148955989191,50.3739861276,1.,5.,3.;2.;4.
+"past ask","(START  (IP  (LEX  past) (VP  (LEX  ask))))","(START (IP (LEX past ) (VP (LEX ask ) ) ) )",-19.3241582059,-19.3241582059,1.,0.,0.0128554515984,60.8629360888,1.,5.,3.;2.;4.
+"past ask","(START  (IP  (LEX  past) (VP  (LEX  ask))))","(START (IP (LEX past ) (VP (LEX ask ) ) ) )",-19.3241582059,-19.3241582059,1.,0.,0.0128554515984,60.8629360888,1.,5.,3.;2.;4.
+"past learn","(START  (IP  (LEX  past) (VP  (LEX  learn))))","(START (IP (LEX past ) (VP (LEX learn ) ) ) )",-20.7904931257,-20.7904931257,1.,0.,0.0127325248666,66.7282757678,1.,5.,3.;2.;4.
+"past ask","(START  (IP  (LEX  past) (VP  (LEX  ask))))","(START (IP (LEX past ) (VP (LEX ask ) ) ) )",-19.3241582059,-19.3241582059,1.,0.,0.0128554515984,60.8629360888,1.,5.,3.;2.;4.
+"past fix with","(START  (IP  (LEX  past) (VP  (LEX  fix) (PP  (LEX  with)))))","(START (IP (LEX past ) (VP (LEX fix ) (PP (LEX with ) ) ) ) )",-33.2927437391,-33.2927437391,1.,0.,0.0132249520317,121.553325925,1.,7.,3.;2.;2.;5.
+"past drink","(START  (IP  (LEX  past) (VP  (LEX  drink))))","(START (IP (LEX past ) (VP (LEX drink ) ) ) )",-18.8935234553,-18.8935234553,1.,0.,0.0129414639417,59.1403970865,1.,5.,3.;2.;4.
+"past drive","(START  (IP  (LEX  past) (VP  (LEX  drive))))","(START (IP (LEX past ) (VP (LEX drive ) ) ) )",-19.9431968617,-19.9431968617,1.,0.,0.0127816955593,63.339090712,1.,5.,3.;2.;4.
+"past <WUG>","(START  (IP  (LEX  past) (VP  (LEX  <WUG>))))","(START (IP (LEX past ) (VP (LEX <WUG> ) ) ) )",-48.1471655238,-48.1471655238,1.,0.,0.0126956467441,176.15496536,1.,5.,3.;2.;4.
+"past buy","(START  (IP  (LEX  past) (VP  (LEX  buy))))","(START (IP (LEX past ) (VP (LEX buy ) ) ) )",-19.1484585377,-19.1484585377,1.,0.,0.0128861469124,60.1601374158,1.,5.,3.;2.;4.
+"past get","(START  (IP  (LEX  past) (VP  (LEX  get))))","(START (IP (LEX past ) (VP (LEX get ) ) ) )",-16.7683191205,-16.7683191205,1.,0.,0.0147542695464,50.6395797469,1.,5.,3.;2.;4.
