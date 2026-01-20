@@ -708,4 +708,4 @@ def lexmv_tri(sequence):
     
 # #     d = {"log_prob": stim_log_prob, "condition": cond, "island": island, "embedded": emb}
     
-# #     return d
+# #     return d                                                                                                                                                  

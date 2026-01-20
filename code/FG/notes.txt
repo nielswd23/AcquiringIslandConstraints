@@ -1,0 +1,32 @@
+Once the FG source code is running withing fg-source-code-restore, here is the pipeline I have been using to train the model, edit the outputting grammar file, and test this grammar file on stimuli. 
+
+~~~ Final analyses ~~~
+Pipeline I've been using:
+1.	get final stimuli list from sequence_extraction_mult_corpora.py
+2.	then move the forms and counts files to proper data folder in fg-source-code-restore
+3.	in terminal, run sh best.sh and supplying the fg-source-code-restore path and then the name of your data folder
+4.	Use grammar_fix.R to make the 1st grammar an easy csv file
+5.	Plug that csv file into no_s_end_grammar_fix.py to get the new 1st grammar that will handle unseen syntactic constructions (and make adjustments to stimuli at the bottom if needed)
+6.	move this new 1st grammar into the proper out folder in source code
+7.	In terminal, run the helpful sh test.sh over all the files in the stimuli folder using the code written below (over both pearl and liu stimuli folders)
+
+
+~~ Grammar learn command run within fg-source-code-restore ~~
+sh best.sh ~/Desktop/FG_project/fg-source-code-restore/ FG_mixed
+
+~ Commands to run AG and PCFG ~
+fg-source-code-restore niels$ time sh best.sh ~/Desktop/FG_project/fg-source-code-restore/ AG_mixed 0 0 1 1 1 1 1000
+- [outNum] [pya] [pyb] [stickyconcen] [stickydist] [pi] [sweeps]
+- where stickydist = 1 is the only parameter change from default
+
+fg-source-code-restore niels$ time sh best.sh ~/Desktop/FG_project/fg-source-code-restore/ PCFG_mixed 0 0 1 1 0 1 1000
+
+~~ Testing a batch of stimuli on learned grammar ~~
+for file in ../../../stimuli/pearl_fg_stim_no_s_end_highses/*.txt ; do sh test.sh /Users/niels/Desktop/FG_project/fg-source-code-restore FG_mixed "$file" ; done
+
+
+
+
+
+~~~ Sequence extraction ~~~
+This folder also contains the code we used to extract syntactic paths from full syntactic trees. This script, sequence_extraction_mult_corpora.py, includes the specific corpora from the CHILDES Treebank that we used to collect our child-directed wh-dependency paths. These corpora are not uploaded to this repo, but can be found at the CHILDES Treebank: https://sites.socsci.uci.edu/~lpearl/CoLaLab/CHILDESTreebank/childestreebank.html. 
